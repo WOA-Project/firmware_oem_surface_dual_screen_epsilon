@@ -1,0 +1,9 @@
+<permissions>
+    <privapp-permissions package="com.microsoft.surface.camera">
+        <!-- Please keep in alpha order -->
+        <permission name="android.permission.CAMERA"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.RECORD_AUDIO"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    </privapp-permissions>
+</permissions>

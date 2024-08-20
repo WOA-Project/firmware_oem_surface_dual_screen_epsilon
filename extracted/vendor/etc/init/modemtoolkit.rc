@@ -1,0 +1,92 @@
+#
+# init scripts for modem toolkit logging.
+#
+# ro.log.toolkit.enable is set by /system_ext/etc/init/modemtoolkit.rc
+
+on property:ro.log.toolkit.enable=true
+    chown root vendor_qdss /sys/bus/coresight/devices/coresight-tmc-etr/block_size
+    chmod 660 /sys/bus/coresight/devices/coresight-tmc-etr/block_size
+    chown system vendor_qdss /dev/diag
+
+on property:persist.log.toolkit.diag_log_enable=true && property:ro.log.toolkit.enable=true
+    exec - shell shell -- /vendor/bin/init.modem_toolkit.sh --mkdir
+    exec -- /vendor/bin/init.modem_toolkit.sh --setupQDSS
+    start toolkit_diag_mdlogd
+
+on property:persist.log.toolkit.diag_log_enable=false && property:ro.log.toolkit.enable=true
+    start toolkit_diag_mdlogd_stop
+    exec -- /vendor/bin/init.modem_toolkit.sh --restoreQDSS
+
+on property:persist.log.toolkit.gps_log_enable=true && property:ro.log.toolkit.enable=true
+    start toolkit_gpsd_start
+    chmod 660 /data/vendor/location/gps.prop
+
+on property:persist.log.toolkit.gps_log_enable=false && property:ro.log.toolkit.enable=true
+    start toolkit_gpsd_stop
+
+on property:log.toolkit.action=create_log_root && property:ro.log.toolkit.enable=true
+    setprop log.toolkit.action ""
+    mkdir /data/vendor/logtoolkit 2770 shell log encryption=None
+    mkdir ${persist.vendor.log.toolkit.log_path:-/data/vendor/logtoolkit/vendor_logs} 2770 shell log encryption=None
+
+on property:log.toolkit.action=chmod && property:ro.log.toolkit.enable=true
+    setprop log.toolkit.action ""
+    exec - shell shell -- /vendor/bin/init.modem_toolkit.sh --chmod
+
+on property:log.toolkit.action=clean && property:ro.log.toolkit.enable=true
+    setprop log.toolkit.action ""
+    exec - shell shell -- /vendor/bin/init.modem_toolkit.sh --clean
+
+on property:log.toolkit.action=stop && property:ro.log.toolkit.enable=true
+    setprop persist.log.toolkit.diag_log_enable false
+    setprop persist.log.toolkit.gps_log_enable false
+
+on property:persist.log.toolkit.log_path=
+    setprop persist.vendor.log.toolkit.log_path ""
+
+on property:persist.log.toolkit.log_path=*
+    setprop persist.vendor.log.toolkit.log_path ${persist.log.toolkit.log_path}
+
+on property:persist.log.toolkit.log_prefix=
+    setprop persist.vendor.log.toolkit.log_prefix ""
+
+on property:persist.log.toolkit.log_prefix=*
+    setprop persist.vendor.log.toolkit.log_prefix ${persist.log.toolkit.log_prefix}
+
+on property:persist.log.toolkit.diag_log_enable=
+    setprop persist.vendor.log.toolkit.diag_log_enable ""
+
+on property:persist.log.toolkit.diag_log_enable=*
+    setprop persist.vendor.log.toolkit.diag_log_enable ${persist.log.toolkit.diag_log_enable}
+
+service toolkit_diag_mdlogd /vendor/bin/diag_mdlog -o ${persist.vendor.log.toolkit.log_path:-/data/vendor/logtoolkit/vendor_logs}/${vendor.log.toolkit.current_log_dir}/diag_logs -f ${vendor.log.toolkit.diag_mask:-/vendor/etc/diag_default.cfg} -s ${persist.log.toolkit.mdlog_size_mb:-100} -n ${persist.log.toolkit.mdlog_size_count:-100} -c -u -q 2 -j 1
+    class late_start
+    disabled
+    user shell
+    group vendor_qdss shell
+    seclabel u:r:vendor_qlogd:s0
+    oneshot
+
+service toolkit_diag_mdlogd_stop /vendor/bin/diag_mdlog -k
+    class late_start
+    disabled
+    user shell
+    group vendor_qdss
+    seclabel u:r:vendor_qlogd:s0
+    oneshot
+
+service toolkit_gpsd_start /vendor/bin/cp -v vendor/etc/gps.prop data/vendor/location/gps.prop
+    class late_start
+    disabled
+    user gps
+    group gps
+    oneshot
+    seclabel u:r:vendor_modem_toolkit:s0
+
+service toolkit_gpsd_stop /vendor/bin/rm -v data/vendor/location/gps.prop
+    class late_start
+    disabled
+    user gps
+    group gps
+    oneshot
+    seclabel u:r:vendor_modem_toolkit:s0

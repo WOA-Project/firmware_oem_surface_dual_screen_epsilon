@@ -1,0 +1,4 @@
+#remove the condition then ro.telephony.iwlan_operation_mode will be legacy
+#on property:ro.board.platform=msmnile && property:ro.baseband=msm && property:ro.vendor.qti.va_aosp.support=1
+on property:ro.board.platform=msmnile && property:ro.baseband=msm
+  setprop ro.telephony.iwlan_operation_mode "legacy"

@@ -1,0 +1,149 @@
+map_SSC_SLPI_USER_AAAAAAAAQ.txt = 13,\SDSP
+map_SHARED_LIBS_AAAAAAAAQ.txt = 13,\SDSP
+lowi_client.so = 13,\SDSP
+libsysmon_skel.so = 13,\SDSP
+libsysmonquery_skel.so = 13,\SDSP
+libsysmondomain_skel.so = 13,\SDSP
+libstabilitydomain_skel.so = 13,\SDSP
+libFastRPC_UTF_Forward_801s_sdm855_skel.so = 13,\SDSP
+libchre_slpi_skel.so = 13,\SDSP
+fastrpc_shell_2 = 13,\SDSP
+chre_pal.so = 13,\SDSP
+chre_drv_wifi.so = 13,\SDSP
+chre_drv_modem.so = 13,\SDSP
+chre_drv_loc.so = 13,\SDSP
+chre_app_sensor_cfg.so = 13,\SDSP
+chre_app_oem.so = 13,\SDSP
+cellinfo_tools.so = 13,\SDSP
+
+-------------------------------
+
+map_SSC_SLPI_USER_AAAAAAAAQ.txt = 1,\SDSP
+map_SHARED_LIBS_AAAAAAAAQ.txt = 1,\SDSP
+lowi_client.so = 1,\SDSP
+libsysmon_skel.so = 1,\SDSP
+libsysmonquery_skel.so = 1,\SDSP
+libsysmondomain_skel.so = 1,\SDSP
+libstabilitydomain_skel.so = 1,\SDSP
+libFastRPC_UTF_Forward_801s_sdm855_skel.so = 1,\SDSP
+libchre_slpi_skel.so = 1,\SDSP
+fastrpc_shell_2 = 1,\SDSP
+chre_pal.so = 1,\SDSP
+chre_drv_wifi.so = 1,\SDSP
+chre_drv_modem.so = 1,\SDSP
+chre_drv_loc.so = 1,\SDSP
+chre_app_sensor_cfg.so = 1,\SDSP
+chre_app_oem.so = 1,\SDSP
+cellinfo_tools.so = 1,\SDSP
+
+-------------------------------
+
+CopyFiles=map_SSC_SLPI_USER_AAAAAAAAQ.txt,map_SHARED_LIBS_AAAAAAAAQ.txt,lowi_client.so,libsysmon_skel.so,libsysmonquery_skel.so,libsysmondomain_skel.so,libstabilitydomain_skel.so,libFastRPC_UTF_Forward_801s_sdm855_skel.so,libchre_slpi_skel.so,fastrpc_shell_2,chre_pal.so,chre_drv_wifi.so,chre_drv_modem.so,chre_drv_loc.so,chre_app_sensor_cfg.so,chre_app_oem.so,cellinfo_tools.so
+
+-------------------------------
+
+[map_SSC_SLPI_USER_AAAAAAAAQ.txt]
+map_SSC_SLPI_USER_AAAAAAAAQ.txt
+[map_SHARED_LIBS_AAAAAAAAQ.txt]
+map_SHARED_LIBS_AAAAAAAAQ.txt
+[lowi_client.so]
+lowi_client.so
+[libsysmon_skel.so]
+libsysmon_skel.so
+[libsysmonquery_skel.so]
+libsysmonquery_skel.so
+[libsysmondomain_skel.so]
+libsysmondomain_skel.so
+[libstabilitydomain_skel.so]
+libstabilitydomain_skel.so
+[libFastRPC_UTF_Forward_801s_sdm855_skel.so]
+libFastRPC_UTF_Forward_801s_sdm855_skel.so
+[libchre_slpi_skel.so]
+libchre_slpi_skel.so
+[fastrpc_shell_2]
+fastrpc_shell_2
+[chre_pal.so]
+chre_pal.so
+[chre_drv_wifi.so]
+chre_drv_wifi.so
+[chre_drv_modem.so]
+chre_drv_modem.so
+[chre_drv_loc.so]
+chre_drv_loc.so
+[chre_app_sensor_cfg.so]
+chre_app_sensor_cfg.so
+[chre_app_oem.so]
+chre_app_oem.so
+[cellinfo_tools.so]
+cellinfo_tools.so
+
+-------------------------------
+
+; Updating registry of cellinfo_tools.so to remote path \sdsp\cellinfo_tools.so
+HKR,Mappings\FASTRPC\Default\190ff0063e1275840332c1df76e64b94c4438f72d09b0b46f245dafc456065a7,"Local",%REG_SZ%, %13%\SDSP\cellinfo_tools.so
+hkr,mappings\fastrpc\default\190ff0063e1275840332c1df76e64b94c4438f72d09b0b46f245dafc456065a7,"remote",%reg_sz%, \sdsp\cellinfo_tools.so
+
+; Updating registry of chre_app_oem.so to remote path \sdsp\chre_app_oem.so
+HKR,Mappings\FASTRPC\Default\93e13df54c703b44fb454cfd63e8070289400b41a01be893b892445b2aa82c4e,"Local",%REG_SZ%, %13%\SDSP\chre_app_oem.so
+hkr,mappings\fastrpc\default\93e13df54c703b44fb454cfd63e8070289400b41a01be893b892445b2aa82c4e,"remote",%reg_sz%, \sdsp\chre_app_oem.so
+
+; Updating registry of chre_app_sensor_cfg.so to remote path \sdsp\chre_app_sensor_cfg.so
+HKR,Mappings\FASTRPC\Default\d9c2f18663d8e8bb5d64c44a71327634849824202f05f1bc635b0fa46bd5c0e4,"Local",%REG_SZ%, %13%\SDSP\chre_app_sensor_cfg.so
+hkr,mappings\fastrpc\default\d9c2f18663d8e8bb5d64c44a71327634849824202f05f1bc635b0fa46bd5c0e4,"remote",%reg_sz%, \sdsp\chre_app_sensor_cfg.so
+
+; Updating registry of chre_drv_loc.so to remote path \sdsp\chre_drv_loc.so
+HKR,Mappings\FASTRPC\Default\941641dd7d0d67d0796fbd3a7e9a4ed7237cdb0b3ded2df703d57d850dd72830,"Local",%REG_SZ%, %13%\SDSP\chre_drv_loc.so
+hkr,mappings\fastrpc\default\941641dd7d0d67d0796fbd3a7e9a4ed7237cdb0b3ded2df703d57d850dd72830,"remote",%reg_sz%, \sdsp\chre_drv_loc.so
+
+; Updating registry of chre_drv_modem.so to remote path \sdsp\chre_drv_modem.so
+HKR,Mappings\FASTRPC\Default\fb8701b2aea2cf8af26cc6989007b044fcf37942fd59842609e0da3df9bfcec8,"Local",%REG_SZ%, %13%\SDSP\chre_drv_modem.so
+hkr,mappings\fastrpc\default\fb8701b2aea2cf8af26cc6989007b044fcf37942fd59842609e0da3df9bfcec8,"remote",%reg_sz%, \sdsp\chre_drv_modem.so
+
+; Updating registry of chre_drv_wifi.so to remote path \sdsp\chre_drv_wifi.so
+HKR,Mappings\FASTRPC\Default\795334f6cddd3dc21dc38ad34a62e27481152a7e0c76f75cb0cbdda7b9ce666c,"Local",%REG_SZ%, %13%\SDSP\chre_drv_wifi.so
+hkr,mappings\fastrpc\default\795334f6cddd3dc21dc38ad34a62e27481152a7e0c76f75cb0cbdda7b9ce666c,"remote",%reg_sz%, \sdsp\chre_drv_wifi.so
+
+; Updating registry of chre_pal.so to remote path \sdsp\chre_pal.so
+HKR,Mappings\FASTRPC\Default\859682e52a13e307eb72448a91c90f37a7ac6d3846b9c1e9c13a5db92036d59c,"Local",%REG_SZ%, %13%\SDSP\chre_pal.so
+hkr,mappings\fastrpc\default\859682e52a13e307eb72448a91c90f37a7ac6d3846b9c1e9c13a5db92036d59c,"remote",%reg_sz%, \sdsp\chre_pal.so
+
+; Updating registry of fastrpc_shell_2 to remote path \sdsp\fastrpc_shell_2
+HKR,Mappings\FASTRPC\Default\65102f9ba031e11c52097852499f6dedcd85fb8724181db56d58c597d1f52cb6,"Local",%REG_SZ%, %13%\SDSP\fastrpc_shell_2
+hkr,mappings\fastrpc\default\65102f9ba031e11c52097852499f6dedcd85fb8724181db56d58c597d1f52cb6,"remote",%reg_sz%, \sdsp\fastrpc_shell_2
+
+; Updating registry of libchre_slpi_skel.so to remote path \sdsp\libchre_slpi_skel.so
+HKR,Mappings\FASTRPC\Default\0b4e7f9441749a8bc13b8a6f627106a464816077e75bf6b6411efc6a544a28cc,"Local",%REG_SZ%, %13%\SDSP\libchre_slpi_skel.so
+hkr,mappings\fastrpc\default\0b4e7f9441749a8bc13b8a6f627106a464816077e75bf6b6411efc6a544a28cc,"remote",%reg_sz%, \sdsp\libchre_slpi_skel.so
+
+; Updating registry of libFastRPC_UTF_Forward_801s_sdm855_skel.so to remote path \sdsp\libFastRPC_UTF_Forward_801s_sdm855_skel.so
+HKR,Mappings\FASTRPC\Default\112f77289b7cff8260b41ef7ad6e219dfdffeeb6fcaf4fda8383fa52305082f3,"Local",%REG_SZ%, %13%\SDSP\libFastRPC_UTF_Forward_801s_sdm855_skel.so
+hkr,mappings\fastrpc\default\112f77289b7cff8260b41ef7ad6e219dfdffeeb6fcaf4fda8383fa52305082f3,"remote",%reg_sz%, \sdsp\libfastrpc_utf_forward_801s_sdm855_skel.so
+
+; Updating registry of libstabilitydomain_skel.so to remote path \sdsp\libstabilitydomain_skel.so
+HKR,Mappings\FASTRPC\Default\bdcd2a22dae2a0add0d3afa0c980f18a15a0001daecd32c588de525cfcdc60d0,"Local",%REG_SZ%, %13%\SDSP\libstabilitydomain_skel.so
+hkr,mappings\fastrpc\default\bdcd2a22dae2a0add0d3afa0c980f18a15a0001daecd32c588de525cfcdc60d0,"remote",%reg_sz%, \sdsp\libstabilitydomain_skel.so
+
+; Updating registry of libsysmondomain_skel.so to remote path \sdsp\libsysmondomain_skel.so
+HKR,Mappings\FASTRPC\Default\b6effaa9f655614a6acee10a998c059b32dc4d3d9d9162ec21431a1a2b9947c9,"Local",%REG_SZ%, %13%\SDSP\libsysmondomain_skel.so
+hkr,mappings\fastrpc\default\b6effaa9f655614a6acee10a998c059b32dc4d3d9d9162ec21431a1a2b9947c9,"remote",%reg_sz%, \sdsp\libsysmondomain_skel.so
+
+; Updating registry of libsysmonquery_skel.so to remote path \sdsp\libsysmonquery_skel.so
+HKR,Mappings\FASTRPC\Default\11efb47e25691cc96482e86ce85fc42a754fc6b33a4fdb0901dbb2196d1fe7af,"Local",%REG_SZ%, %13%\SDSP\libsysmonquery_skel.so
+hkr,mappings\fastrpc\default\11efb47e25691cc96482e86ce85fc42a754fc6b33a4fdb0901dbb2196d1fe7af,"remote",%reg_sz%, \sdsp\libsysmonquery_skel.so
+
+; Updating registry of libsysmon_skel.so to remote path \sdsp\libsysmon_skel.so
+HKR,Mappings\FASTRPC\Default\be24b8ec370e39882568d2431504b59797e3d738cd37fc6a41ba65031ef2435b,"Local",%REG_SZ%, %13%\SDSP\libsysmon_skel.so
+hkr,mappings\fastrpc\default\be24b8ec370e39882568d2431504b59797e3d738cd37fc6a41ba65031ef2435b,"remote",%reg_sz%, \sdsp\libsysmon_skel.so
+
+; Updating registry of lowi_client.so to remote path \sdsp\lowi_client.so
+HKR,Mappings\FASTRPC\Default\1467a790b44fdfb4e1233176136e234ec6dbdf0767b7807f32e919e39ebbdf0a,"Local",%REG_SZ%, %13%\SDSP\lowi_client.so
+hkr,mappings\fastrpc\default\1467a790b44fdfb4e1233176136e234ec6dbdf0767b7807f32e919e39ebbdf0a,"remote",%reg_sz%, \sdsp\lowi_client.so
+
+; Updating registry of map_SHARED_LIBS_AAAAAAAAQ.txt to remote path \sdsp\map_SHARED_LIBS_AAAAAAAAQ.txt
+HKR,Mappings\FASTRPC\Default\37a3b2072ccc4ddc441bbf29496e840bec1325394c24aab3007d4ce471536f1c,"Local",%REG_SZ%, %13%\SDSP\map_SHARED_LIBS_AAAAAAAAQ.txt
+hkr,mappings\fastrpc\default\37a3b2072ccc4ddc441bbf29496e840bec1325394c24aab3007d4ce471536f1c,"remote",%reg_sz%, \sdsp\map_shared_libs_aaaaaaaaq.txt
+
+; Updating registry of map_SSC_SLPI_USER_AAAAAAAAQ.txt to remote path \sdsp\map_SSC_SLPI_USER_AAAAAAAAQ.txt
+HKR,Mappings\FASTRPC\Default\286f5d89f0cd745bfdad5d5e25bb38d3a6f49ebc8592d39ce413c33dd3afa2f2,"Local",%REG_SZ%, %13%\SDSP\map_SSC_SLPI_USER_AAAAAAAAQ.txt
+hkr,mappings\fastrpc\default\286f5d89f0cd745bfdad5d5e25bb38d3a6f49ebc8592d39ce413c33dd3afa2f2,"remote",%reg_sz%, \sdsp\map_ssc_slpi_user_aaaaaaaaq.txt
+

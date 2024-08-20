@@ -1,0 +1,11 @@
+#!/system/bin/sh
+
+#
+# Copyright (c) Microsoft Corporation. All rights reserved.
+#
+# Script for On-Device Logging Authentication
+
+base=/system_ext
+export CLASSPATH=$base/framework/logtoolkit_activator.jar
+exec app_process $base/bin com.microsoft.surface.commands.logtoolkit.LoggingEnabler "$@"
+

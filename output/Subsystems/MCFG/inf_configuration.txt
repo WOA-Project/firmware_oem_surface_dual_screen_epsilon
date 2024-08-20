@@ -1,0 +1,2277 @@
+mcfg_sw.uns.283 = 13,\MCFG
+mcfg_sw.mbn.282 = 13,\MCFG
+mcfg_hw.uns.281 = 13,\MCFG
+mcfg_hw.mbn.280 = 13,\MCFG
+mcfg_sw.uns.279 = 13,\MCFG
+mcfg_sw.mbn.278 = 13,\MCFG
+mcfg_sw.uns.277 = 13,\MCFG
+mcfg_sw.mbn.276 = 13,\MCFG
+mcfg_sw.uns.275 = 13,\MCFG
+mcfg_sw.mbn.274 = 13,\MCFG
+mcfg_sw.uns.273 = 13,\MCFG
+mcfg_sw.mbn.272 = 13,\MCFG
+mcfg_sw.uns.271 = 13,\MCFG
+mcfg_sw.mbn.270 = 13,\MCFG
+mcfg_sw.uns.269 = 13,\MCFG
+mcfg_sw.mbn.268 = 13,\MCFG
+mcfg_sw.uns.267 = 13,\MCFG
+mcfg_sw.mbn.266 = 13,\MCFG
+mcfg_sw.uns.265 = 13,\MCFG
+mcfg_sw.mbn.264 = 13,\MCFG
+mcfg_sw.uns.263 = 13,\MCFG
+mcfg_sw.mbn.262 = 13,\MCFG
+mcfg_sw.uns.261 = 13,\MCFG
+mcfg_sw.mbn.260 = 13,\MCFG
+mcfg_sw.uns.259 = 13,\MCFG
+mcfg_sw.mbn.258 = 13,\MCFG
+mcfg_sw.uns.257 = 13,\MCFG
+mcfg_sw.mbn.256 = 13,\MCFG
+mcfg_sw.uns.255 = 13,\MCFG
+mcfg_sw.mbn.254 = 13,\MCFG
+mcfg_sw.uns.253 = 13,\MCFG
+mcfg_sw.mbn.252 = 13,\MCFG
+mcfg_sw.uns.251 = 13,\MCFG
+mcfg_sw.mbn.250 = 13,\MCFG
+mcfg_sw.uns.249 = 13,\MCFG
+mcfg_sw.mbn.248 = 13,\MCFG
+mcfg_sw.uns.247 = 13,\MCFG
+mcfg_sw.mbn.246 = 13,\MCFG
+mcfg_sw.uns.245 = 13,\MCFG
+mcfg_sw.mbn.244 = 13,\MCFG
+mcfg_sw.uns.243 = 13,\MCFG
+mcfg_sw.mbn.242 = 13,\MCFG
+mcfg_sw.uns.241 = 13,\MCFG
+mcfg_sw.mbn.240 = 13,\MCFG
+mcfg_sw.uns.239 = 13,\MCFG
+mcfg_sw.mbn.238 = 13,\MCFG
+mcfg_sw.uns.237 = 13,\MCFG
+mcfg_sw.mbn.236 = 13,\MCFG
+mcfg_sw.uns.235 = 13,\MCFG
+mcfg_sw.mbn.234 = 13,\MCFG
+mcfg_sw.uns.233 = 13,\MCFG
+mcfg_sw.mbn.232 = 13,\MCFG
+mcfg_sw.uns.231 = 13,\MCFG
+mcfg_sw.mbn.230 = 13,\MCFG
+mcfg_sw.uns.229 = 13,\MCFG
+mcfg_sw.mbn.228 = 13,\MCFG
+mcfg_sw.uns.227 = 13,\MCFG
+mcfg_sw.mbn.226 = 13,\MCFG
+mcfg_sw.uns.225 = 13,\MCFG
+mcfg_sw.mbn.224 = 13,\MCFG
+mcfg_sw.uns.223 = 13,\MCFG
+mcfg_sw.mbn.222 = 13,\MCFG
+mcfg_sw.uns.221 = 13,\MCFG
+mcfg_sw.mbn.220 = 13,\MCFG
+mcfg_sw.uns.219 = 13,\MCFG
+mcfg_sw.mbn.218 = 13,\MCFG
+mcfg_sw.uns.217 = 13,\MCFG
+mcfg_sw.mbn.216 = 13,\MCFG
+mcfg_sw.uns.215 = 13,\MCFG
+mcfg_sw.mbn.214 = 13,\MCFG
+mcfg_sw.uns.213 = 13,\MCFG
+mcfg_sw.mbn.212 = 13,\MCFG
+mcfg_sw.uns.211 = 13,\MCFG
+mcfg_sw.mbn.210 = 13,\MCFG
+mcfg_sw.uns.209 = 13,\MCFG
+mcfg_sw.mbn.208 = 13,\MCFG
+mcfg_sw.uns.207 = 13,\MCFG
+mcfg_sw.mbn.206 = 13,\MCFG
+mcfg_sw.uns.205 = 13,\MCFG
+mcfg_sw.mbn.204 = 13,\MCFG
+mcfg_sw.uns.203 = 13,\MCFG
+mcfg_sw.mbn.202 = 13,\MCFG
+mcfg_sw.uns.201 = 13,\MCFG
+mcfg_sw.mbn.200 = 13,\MCFG
+mcfg_sw.uns.199 = 13,\MCFG
+mcfg_sw.mbn.198 = 13,\MCFG
+mcfg_sw.uns.197 = 13,\MCFG
+mcfg_sw.mbn.196 = 13,\MCFG
+mcfg_sw.uns.195 = 13,\MCFG
+mcfg_sw.mbn.194 = 13,\MCFG
+mcfg_sw.uns.193 = 13,\MCFG
+mcfg_sw.mbn.192 = 13,\MCFG
+mcfg_sw.uns.191 = 13,\MCFG
+mcfg_sw.mbn.190 = 13,\MCFG
+mcfg_sw.uns.189 = 13,\MCFG
+mcfg_sw.mbn.188 = 13,\MCFG
+mcfg_sw.uns.187 = 13,\MCFG
+mcfg_sw.mbn.186 = 13,\MCFG
+mcfg_sw.uns.185 = 13,\MCFG
+mcfg_sw.mbn.184 = 13,\MCFG
+mcfg_sw.uns.183 = 13,\MCFG
+mcfg_sw.mbn.182 = 13,\MCFG
+mcfg_sw.uns.181 = 13,\MCFG
+mcfg_sw.mbn.180 = 13,\MCFG
+mcfg_sw.uns.179 = 13,\MCFG
+mcfg_sw.mbn.178 = 13,\MCFG
+mcfg_sw.uns.177 = 13,\MCFG
+mcfg_sw.mbn.176 = 13,\MCFG
+mcfg_sw.uns.175 = 13,\MCFG
+mcfg_sw.mbn.174 = 13,\MCFG
+mcfg_sw.uns.173 = 13,\MCFG
+mcfg_sw.mbn.172 = 13,\MCFG
+mcfg_sw.uns.171 = 13,\MCFG
+mcfg_sw.mbn.170 = 13,\MCFG
+mcfg_sw.uns.169 = 13,\MCFG
+mcfg_sw.mbn.168 = 13,\MCFG
+mcfg_sw.uns.167 = 13,\MCFG
+mcfg_sw.mbn.166 = 13,\MCFG
+mcfg_sw.uns.165 = 13,\MCFG
+mcfg_sw.mbn.164 = 13,\MCFG
+mcfg_sw.uns.163 = 13,\MCFG
+mcfg_sw.mbn.162 = 13,\MCFG
+mcfg_sw.uns.161 = 13,\MCFG
+mcfg_sw.mbn.160 = 13,\MCFG
+mcfg_sw.uns.159 = 13,\MCFG
+mcfg_sw.mbn.158 = 13,\MCFG
+mcfg_sw.uns.157 = 13,\MCFG
+mcfg_sw.mbn.156 = 13,\MCFG
+mcfg_sw.uns.155 = 13,\MCFG
+mcfg_sw.mbn.154 = 13,\MCFG
+mcfg_sw.uns.153 = 13,\MCFG
+mcfg_sw.mbn.152 = 13,\MCFG
+mcfg_sw.uns.151 = 13,\MCFG
+mcfg_sw.mbn.150 = 13,\MCFG
+mcfg_sw.uns.149 = 13,\MCFG
+mcfg_sw.mbn.148 = 13,\MCFG
+mcfg_sw.uns.147 = 13,\MCFG
+mcfg_sw.mbn.146 = 13,\MCFG
+mcfg_sw.uns.145 = 13,\MCFG
+mcfg_sw.mbn.144 = 13,\MCFG
+mcfg_sw.uns.143 = 13,\MCFG
+mcfg_sw.mbn.142 = 13,\MCFG
+mcfg_sw.uns.141 = 13,\MCFG
+mcfg_sw.mbn.140 = 13,\MCFG
+mcfg_sw.uns.139 = 13,\MCFG
+mcfg_sw.mbn.138 = 13,\MCFG
+mcfg_sw.uns.137 = 13,\MCFG
+mcfg_sw.mbn.136 = 13,\MCFG
+mcfg_sw.uns.135 = 13,\MCFG
+mcfg_sw.mbn.134 = 13,\MCFG
+mcfg_sw.uns.133 = 13,\MCFG
+mcfg_sw.mbn.132 = 13,\MCFG
+mcfg_sw.uns.131 = 13,\MCFG
+mcfg_sw.mbn.130 = 13,\MCFG
+mcfg_sw.uns.129 = 13,\MCFG
+mcfg_sw.mbn.128 = 13,\MCFG
+mcfg_sw.uns.127 = 13,\MCFG
+mcfg_sw.mbn.126 = 13,\MCFG
+mcfg_sw.uns.125 = 13,\MCFG
+mcfg_sw.mbn.124 = 13,\MCFG
+mcfg_sw.uns.123 = 13,\MCFG
+mcfg_sw.mbn.122 = 13,\MCFG
+mcfg_sw.uns.121 = 13,\MCFG
+mcfg_sw.mbn.120 = 13,\MCFG
+mcfg_sw.uns.119 = 13,\MCFG
+mcfg_sw.mbn.118 = 13,\MCFG
+mcfg_sw.uns.117 = 13,\MCFG
+mcfg_sw.mbn.116 = 13,\MCFG
+mcfg_sw.uns.115 = 13,\MCFG
+mcfg_sw.mbn.114 = 13,\MCFG
+mcfg_sw.uns.113 = 13,\MCFG
+mcfg_sw.mbn.112 = 13,\MCFG
+mcfg_sw.uns.111 = 13,\MCFG
+mcfg_sw.mbn.110 = 13,\MCFG
+mcfg_sw.uns.109 = 13,\MCFG
+mcfg_sw.mbn.108 = 13,\MCFG
+mcfg_sw.uns.107 = 13,\MCFG
+mcfg_sw.mbn.106 = 13,\MCFG
+mcfg_sw.uns.105 = 13,\MCFG
+mcfg_sw.mbn.104 = 13,\MCFG
+mcfg_sw.uns.103 = 13,\MCFG
+mcfg_sw.mbn.102 = 13,\MCFG
+mcfg_sw.uns.101 = 13,\MCFG
+mcfg_sw.mbn.100 = 13,\MCFG
+mcfg_sw.uns.99 = 13,\MCFG
+mcfg_sw.mbn.98 = 13,\MCFG
+mcfg_sw.uns.97 = 13,\MCFG
+mcfg_sw.mbn.96 = 13,\MCFG
+mcfg_sw.uns.95 = 13,\MCFG
+mcfg_sw.mbn.94 = 13,\MCFG
+mcfg_sw.uns.93 = 13,\MCFG
+mcfg_sw.mbn.92 = 13,\MCFG
+mcfg_sw.uns.91 = 13,\MCFG
+mcfg_sw.mbn.90 = 13,\MCFG
+mcfg_sw.uns.89 = 13,\MCFG
+mcfg_sw.mbn.88 = 13,\MCFG
+mcfg_sw.uns.87 = 13,\MCFG
+mcfg_sw.mbn.86 = 13,\MCFG
+mcfg_sw.uns.85 = 13,\MCFG
+mcfg_sw.mbn.84 = 13,\MCFG
+mcfg_sw.uns.83 = 13,\MCFG
+mcfg_sw.mbn.82 = 13,\MCFG
+mcfg_sw.uns.81 = 13,\MCFG
+mcfg_sw.mbn.80 = 13,\MCFG
+mcfg_sw.uns.79 = 13,\MCFG
+mcfg_sw.mbn.78 = 13,\MCFG
+mcfg_sw.uns.77 = 13,\MCFG
+mcfg_sw.mbn.76 = 13,\MCFG
+mcfg_sw.uns.75 = 13,\MCFG
+mcfg_sw.mbn.74 = 13,\MCFG
+mcfg_sw.uns.73 = 13,\MCFG
+mcfg_sw.mbn.72 = 13,\MCFG
+mcfg_sw.uns.71 = 13,\MCFG
+mcfg_sw.mbn.70 = 13,\MCFG
+mcfg_sw.uns.69 = 13,\MCFG
+mcfg_sw.mbn.68 = 13,\MCFG
+mcfg_sw.uns.67 = 13,\MCFG
+mcfg_sw.mbn.66 = 13,\MCFG
+mcfg_sw.uns.65 = 13,\MCFG
+mcfg_sw.mbn.64 = 13,\MCFG
+mcfg_sw.uns.63 = 13,\MCFG
+mcfg_sw.mbn.62 = 13,\MCFG
+mcfg_sw.uns.61 = 13,\MCFG
+mcfg_sw.mbn.60 = 13,\MCFG
+mcfg_sw.uns.59 = 13,\MCFG
+mcfg_sw.mbn.58 = 13,\MCFG
+mcfg_sw.uns.57 = 13,\MCFG
+mcfg_sw.mbn.56 = 13,\MCFG
+mcfg_sw.uns.55 = 13,\MCFG
+mcfg_sw.mbn.54 = 13,\MCFG
+mcfg_sw.uns.53 = 13,\MCFG
+mcfg_sw.mbn.52 = 13,\MCFG
+mcfg_sw.uns.51 = 13,\MCFG
+mcfg_sw.mbn.50 = 13,\MCFG
+mcfg_sw.uns.49 = 13,\MCFG
+mcfg_sw.mbn.48 = 13,\MCFG
+mcfg_sw.uns.47 = 13,\MCFG
+mcfg_sw.mbn.46 = 13,\MCFG
+mcfg_sw.uns.45 = 13,\MCFG
+mcfg_sw.mbn.44 = 13,\MCFG
+mcfg_sw.uns.43 = 13,\MCFG
+mcfg_sw.mbn.42 = 13,\MCFG
+mcfg_sw.uns.41 = 13,\MCFG
+mcfg_sw.mbn.40 = 13,\MCFG
+mcfg_sw.uns.39 = 13,\MCFG
+mcfg_sw.mbn.38 = 13,\MCFG
+mcfg_sw.uns.37 = 13,\MCFG
+mcfg_sw.mbn.36 = 13,\MCFG
+mcfg_sw.uns.35 = 13,\MCFG
+mcfg_sw.mbn.34 = 13,\MCFG
+mcfg_sw.uns.33 = 13,\MCFG
+mcfg_sw.mbn.32 = 13,\MCFG
+mcfg_sw.uns.31 = 13,\MCFG
+mcfg_sw.mbn.30 = 13,\MCFG
+mcfg_sw.uns.29 = 13,\MCFG
+mcfg_sw.mbn.28 = 13,\MCFG
+mcfg_sw.uns.27 = 13,\MCFG
+mcfg_sw.mbn.26 = 13,\MCFG
+mcfg_sw.uns.25 = 13,\MCFG
+mcfg_sw.mbn.24 = 13,\MCFG
+mcfg_sw.uns.23 = 13,\MCFG
+mcfg_sw.mbn.22 = 13,\MCFG
+mcfg_sw.uns.21 = 13,\MCFG
+mcfg_sw.mbn.20 = 13,\MCFG
+mcfg_sw.uns.19 = 13,\MCFG
+mcfg_sw.mbn.18 = 13,\MCFG
+mcfg_sw.uns.17 = 13,\MCFG
+mcfg_sw.mbn.16 = 13,\MCFG
+mcfg_sw.uns.15 = 13,\MCFG
+mcfg_sw.mbn.14 = 13,\MCFG
+mcfg_sw.uns.13 = 13,\MCFG
+mcfg_sw.mbn.12 = 13,\MCFG
+mcfg_sw.uns.11 = 13,\MCFG
+mcfg_sw.mbn.10 = 13,\MCFG
+oem_sw_w.txt.9 = 13,\MCFG
+oem_sw_a.txt.8 = 13,\MCFG
+oem_sw.txt.7 = 13,\MCFG
+mbn_sw.txt.6 = 13,\MCFG
+mbn_sw.dig.5 = 13,\MCFG
+oem_hw_w.txt.4 = 13,\MCFG
+oem_hw_a.txt.3 = 13,\MCFG
+mbn_hw.txt.2 = 13,\MCFG
+mbn_hw.dig.1 = 13,\MCFG
+
+-------------------------------
+
+mcfg_sw.uns.283 = 1,\MCFG
+mcfg_sw.mbn.282 = 1,\MCFG
+mcfg_hw.uns.281 = 1,\MCFG
+mcfg_hw.mbn.280 = 1,\MCFG
+mcfg_sw.uns.279 = 1,\MCFG
+mcfg_sw.mbn.278 = 1,\MCFG
+mcfg_sw.uns.277 = 1,\MCFG
+mcfg_sw.mbn.276 = 1,\MCFG
+mcfg_sw.uns.275 = 1,\MCFG
+mcfg_sw.mbn.274 = 1,\MCFG
+mcfg_sw.uns.273 = 1,\MCFG
+mcfg_sw.mbn.272 = 1,\MCFG
+mcfg_sw.uns.271 = 1,\MCFG
+mcfg_sw.mbn.270 = 1,\MCFG
+mcfg_sw.uns.269 = 1,\MCFG
+mcfg_sw.mbn.268 = 1,\MCFG
+mcfg_sw.uns.267 = 1,\MCFG
+mcfg_sw.mbn.266 = 1,\MCFG
+mcfg_sw.uns.265 = 1,\MCFG
+mcfg_sw.mbn.264 = 1,\MCFG
+mcfg_sw.uns.263 = 1,\MCFG
+mcfg_sw.mbn.262 = 1,\MCFG
+mcfg_sw.uns.261 = 1,\MCFG
+mcfg_sw.mbn.260 = 1,\MCFG
+mcfg_sw.uns.259 = 1,\MCFG
+mcfg_sw.mbn.258 = 1,\MCFG
+mcfg_sw.uns.257 = 1,\MCFG
+mcfg_sw.mbn.256 = 1,\MCFG
+mcfg_sw.uns.255 = 1,\MCFG
+mcfg_sw.mbn.254 = 1,\MCFG
+mcfg_sw.uns.253 = 1,\MCFG
+mcfg_sw.mbn.252 = 1,\MCFG
+mcfg_sw.uns.251 = 1,\MCFG
+mcfg_sw.mbn.250 = 1,\MCFG
+mcfg_sw.uns.249 = 1,\MCFG
+mcfg_sw.mbn.248 = 1,\MCFG
+mcfg_sw.uns.247 = 1,\MCFG
+mcfg_sw.mbn.246 = 1,\MCFG
+mcfg_sw.uns.245 = 1,\MCFG
+mcfg_sw.mbn.244 = 1,\MCFG
+mcfg_sw.uns.243 = 1,\MCFG
+mcfg_sw.mbn.242 = 1,\MCFG
+mcfg_sw.uns.241 = 1,\MCFG
+mcfg_sw.mbn.240 = 1,\MCFG
+mcfg_sw.uns.239 = 1,\MCFG
+mcfg_sw.mbn.238 = 1,\MCFG
+mcfg_sw.uns.237 = 1,\MCFG
+mcfg_sw.mbn.236 = 1,\MCFG
+mcfg_sw.uns.235 = 1,\MCFG
+mcfg_sw.mbn.234 = 1,\MCFG
+mcfg_sw.uns.233 = 1,\MCFG
+mcfg_sw.mbn.232 = 1,\MCFG
+mcfg_sw.uns.231 = 1,\MCFG
+mcfg_sw.mbn.230 = 1,\MCFG
+mcfg_sw.uns.229 = 1,\MCFG
+mcfg_sw.mbn.228 = 1,\MCFG
+mcfg_sw.uns.227 = 1,\MCFG
+mcfg_sw.mbn.226 = 1,\MCFG
+mcfg_sw.uns.225 = 1,\MCFG
+mcfg_sw.mbn.224 = 1,\MCFG
+mcfg_sw.uns.223 = 1,\MCFG
+mcfg_sw.mbn.222 = 1,\MCFG
+mcfg_sw.uns.221 = 1,\MCFG
+mcfg_sw.mbn.220 = 1,\MCFG
+mcfg_sw.uns.219 = 1,\MCFG
+mcfg_sw.mbn.218 = 1,\MCFG
+mcfg_sw.uns.217 = 1,\MCFG
+mcfg_sw.mbn.216 = 1,\MCFG
+mcfg_sw.uns.215 = 1,\MCFG
+mcfg_sw.mbn.214 = 1,\MCFG
+mcfg_sw.uns.213 = 1,\MCFG
+mcfg_sw.mbn.212 = 1,\MCFG
+mcfg_sw.uns.211 = 1,\MCFG
+mcfg_sw.mbn.210 = 1,\MCFG
+mcfg_sw.uns.209 = 1,\MCFG
+mcfg_sw.mbn.208 = 1,\MCFG
+mcfg_sw.uns.207 = 1,\MCFG
+mcfg_sw.mbn.206 = 1,\MCFG
+mcfg_sw.uns.205 = 1,\MCFG
+mcfg_sw.mbn.204 = 1,\MCFG
+mcfg_sw.uns.203 = 1,\MCFG
+mcfg_sw.mbn.202 = 1,\MCFG
+mcfg_sw.uns.201 = 1,\MCFG
+mcfg_sw.mbn.200 = 1,\MCFG
+mcfg_sw.uns.199 = 1,\MCFG
+mcfg_sw.mbn.198 = 1,\MCFG
+mcfg_sw.uns.197 = 1,\MCFG
+mcfg_sw.mbn.196 = 1,\MCFG
+mcfg_sw.uns.195 = 1,\MCFG
+mcfg_sw.mbn.194 = 1,\MCFG
+mcfg_sw.uns.193 = 1,\MCFG
+mcfg_sw.mbn.192 = 1,\MCFG
+mcfg_sw.uns.191 = 1,\MCFG
+mcfg_sw.mbn.190 = 1,\MCFG
+mcfg_sw.uns.189 = 1,\MCFG
+mcfg_sw.mbn.188 = 1,\MCFG
+mcfg_sw.uns.187 = 1,\MCFG
+mcfg_sw.mbn.186 = 1,\MCFG
+mcfg_sw.uns.185 = 1,\MCFG
+mcfg_sw.mbn.184 = 1,\MCFG
+mcfg_sw.uns.183 = 1,\MCFG
+mcfg_sw.mbn.182 = 1,\MCFG
+mcfg_sw.uns.181 = 1,\MCFG
+mcfg_sw.mbn.180 = 1,\MCFG
+mcfg_sw.uns.179 = 1,\MCFG
+mcfg_sw.mbn.178 = 1,\MCFG
+mcfg_sw.uns.177 = 1,\MCFG
+mcfg_sw.mbn.176 = 1,\MCFG
+mcfg_sw.uns.175 = 1,\MCFG
+mcfg_sw.mbn.174 = 1,\MCFG
+mcfg_sw.uns.173 = 1,\MCFG
+mcfg_sw.mbn.172 = 1,\MCFG
+mcfg_sw.uns.171 = 1,\MCFG
+mcfg_sw.mbn.170 = 1,\MCFG
+mcfg_sw.uns.169 = 1,\MCFG
+mcfg_sw.mbn.168 = 1,\MCFG
+mcfg_sw.uns.167 = 1,\MCFG
+mcfg_sw.mbn.166 = 1,\MCFG
+mcfg_sw.uns.165 = 1,\MCFG
+mcfg_sw.mbn.164 = 1,\MCFG
+mcfg_sw.uns.163 = 1,\MCFG
+mcfg_sw.mbn.162 = 1,\MCFG
+mcfg_sw.uns.161 = 1,\MCFG
+mcfg_sw.mbn.160 = 1,\MCFG
+mcfg_sw.uns.159 = 1,\MCFG
+mcfg_sw.mbn.158 = 1,\MCFG
+mcfg_sw.uns.157 = 1,\MCFG
+mcfg_sw.mbn.156 = 1,\MCFG
+mcfg_sw.uns.155 = 1,\MCFG
+mcfg_sw.mbn.154 = 1,\MCFG
+mcfg_sw.uns.153 = 1,\MCFG
+mcfg_sw.mbn.152 = 1,\MCFG
+mcfg_sw.uns.151 = 1,\MCFG
+mcfg_sw.mbn.150 = 1,\MCFG
+mcfg_sw.uns.149 = 1,\MCFG
+mcfg_sw.mbn.148 = 1,\MCFG
+mcfg_sw.uns.147 = 1,\MCFG
+mcfg_sw.mbn.146 = 1,\MCFG
+mcfg_sw.uns.145 = 1,\MCFG
+mcfg_sw.mbn.144 = 1,\MCFG
+mcfg_sw.uns.143 = 1,\MCFG
+mcfg_sw.mbn.142 = 1,\MCFG
+mcfg_sw.uns.141 = 1,\MCFG
+mcfg_sw.mbn.140 = 1,\MCFG
+mcfg_sw.uns.139 = 1,\MCFG
+mcfg_sw.mbn.138 = 1,\MCFG
+mcfg_sw.uns.137 = 1,\MCFG
+mcfg_sw.mbn.136 = 1,\MCFG
+mcfg_sw.uns.135 = 1,\MCFG
+mcfg_sw.mbn.134 = 1,\MCFG
+mcfg_sw.uns.133 = 1,\MCFG
+mcfg_sw.mbn.132 = 1,\MCFG
+mcfg_sw.uns.131 = 1,\MCFG
+mcfg_sw.mbn.130 = 1,\MCFG
+mcfg_sw.uns.129 = 1,\MCFG
+mcfg_sw.mbn.128 = 1,\MCFG
+mcfg_sw.uns.127 = 1,\MCFG
+mcfg_sw.mbn.126 = 1,\MCFG
+mcfg_sw.uns.125 = 1,\MCFG
+mcfg_sw.mbn.124 = 1,\MCFG
+mcfg_sw.uns.123 = 1,\MCFG
+mcfg_sw.mbn.122 = 1,\MCFG
+mcfg_sw.uns.121 = 1,\MCFG
+mcfg_sw.mbn.120 = 1,\MCFG
+mcfg_sw.uns.119 = 1,\MCFG
+mcfg_sw.mbn.118 = 1,\MCFG
+mcfg_sw.uns.117 = 1,\MCFG
+mcfg_sw.mbn.116 = 1,\MCFG
+mcfg_sw.uns.115 = 1,\MCFG
+mcfg_sw.mbn.114 = 1,\MCFG
+mcfg_sw.uns.113 = 1,\MCFG
+mcfg_sw.mbn.112 = 1,\MCFG
+mcfg_sw.uns.111 = 1,\MCFG
+mcfg_sw.mbn.110 = 1,\MCFG
+mcfg_sw.uns.109 = 1,\MCFG
+mcfg_sw.mbn.108 = 1,\MCFG
+mcfg_sw.uns.107 = 1,\MCFG
+mcfg_sw.mbn.106 = 1,\MCFG
+mcfg_sw.uns.105 = 1,\MCFG
+mcfg_sw.mbn.104 = 1,\MCFG
+mcfg_sw.uns.103 = 1,\MCFG
+mcfg_sw.mbn.102 = 1,\MCFG
+mcfg_sw.uns.101 = 1,\MCFG
+mcfg_sw.mbn.100 = 1,\MCFG
+mcfg_sw.uns.99 = 1,\MCFG
+mcfg_sw.mbn.98 = 1,\MCFG
+mcfg_sw.uns.97 = 1,\MCFG
+mcfg_sw.mbn.96 = 1,\MCFG
+mcfg_sw.uns.95 = 1,\MCFG
+mcfg_sw.mbn.94 = 1,\MCFG
+mcfg_sw.uns.93 = 1,\MCFG
+mcfg_sw.mbn.92 = 1,\MCFG
+mcfg_sw.uns.91 = 1,\MCFG
+mcfg_sw.mbn.90 = 1,\MCFG
+mcfg_sw.uns.89 = 1,\MCFG
+mcfg_sw.mbn.88 = 1,\MCFG
+mcfg_sw.uns.87 = 1,\MCFG
+mcfg_sw.mbn.86 = 1,\MCFG
+mcfg_sw.uns.85 = 1,\MCFG
+mcfg_sw.mbn.84 = 1,\MCFG
+mcfg_sw.uns.83 = 1,\MCFG
+mcfg_sw.mbn.82 = 1,\MCFG
+mcfg_sw.uns.81 = 1,\MCFG
+mcfg_sw.mbn.80 = 1,\MCFG
+mcfg_sw.uns.79 = 1,\MCFG
+mcfg_sw.mbn.78 = 1,\MCFG
+mcfg_sw.uns.77 = 1,\MCFG
+mcfg_sw.mbn.76 = 1,\MCFG
+mcfg_sw.uns.75 = 1,\MCFG
+mcfg_sw.mbn.74 = 1,\MCFG
+mcfg_sw.uns.73 = 1,\MCFG
+mcfg_sw.mbn.72 = 1,\MCFG
+mcfg_sw.uns.71 = 1,\MCFG
+mcfg_sw.mbn.70 = 1,\MCFG
+mcfg_sw.uns.69 = 1,\MCFG
+mcfg_sw.mbn.68 = 1,\MCFG
+mcfg_sw.uns.67 = 1,\MCFG
+mcfg_sw.mbn.66 = 1,\MCFG
+mcfg_sw.uns.65 = 1,\MCFG
+mcfg_sw.mbn.64 = 1,\MCFG
+mcfg_sw.uns.63 = 1,\MCFG
+mcfg_sw.mbn.62 = 1,\MCFG
+mcfg_sw.uns.61 = 1,\MCFG
+mcfg_sw.mbn.60 = 1,\MCFG
+mcfg_sw.uns.59 = 1,\MCFG
+mcfg_sw.mbn.58 = 1,\MCFG
+mcfg_sw.uns.57 = 1,\MCFG
+mcfg_sw.mbn.56 = 1,\MCFG
+mcfg_sw.uns.55 = 1,\MCFG
+mcfg_sw.mbn.54 = 1,\MCFG
+mcfg_sw.uns.53 = 1,\MCFG
+mcfg_sw.mbn.52 = 1,\MCFG
+mcfg_sw.uns.51 = 1,\MCFG
+mcfg_sw.mbn.50 = 1,\MCFG
+mcfg_sw.uns.49 = 1,\MCFG
+mcfg_sw.mbn.48 = 1,\MCFG
+mcfg_sw.uns.47 = 1,\MCFG
+mcfg_sw.mbn.46 = 1,\MCFG
+mcfg_sw.uns.45 = 1,\MCFG
+mcfg_sw.mbn.44 = 1,\MCFG
+mcfg_sw.uns.43 = 1,\MCFG
+mcfg_sw.mbn.42 = 1,\MCFG
+mcfg_sw.uns.41 = 1,\MCFG
+mcfg_sw.mbn.40 = 1,\MCFG
+mcfg_sw.uns.39 = 1,\MCFG
+mcfg_sw.mbn.38 = 1,\MCFG
+mcfg_sw.uns.37 = 1,\MCFG
+mcfg_sw.mbn.36 = 1,\MCFG
+mcfg_sw.uns.35 = 1,\MCFG
+mcfg_sw.mbn.34 = 1,\MCFG
+mcfg_sw.uns.33 = 1,\MCFG
+mcfg_sw.mbn.32 = 1,\MCFG
+mcfg_sw.uns.31 = 1,\MCFG
+mcfg_sw.mbn.30 = 1,\MCFG
+mcfg_sw.uns.29 = 1,\MCFG
+mcfg_sw.mbn.28 = 1,\MCFG
+mcfg_sw.uns.27 = 1,\MCFG
+mcfg_sw.mbn.26 = 1,\MCFG
+mcfg_sw.uns.25 = 1,\MCFG
+mcfg_sw.mbn.24 = 1,\MCFG
+mcfg_sw.uns.23 = 1,\MCFG
+mcfg_sw.mbn.22 = 1,\MCFG
+mcfg_sw.uns.21 = 1,\MCFG
+mcfg_sw.mbn.20 = 1,\MCFG
+mcfg_sw.uns.19 = 1,\MCFG
+mcfg_sw.mbn.18 = 1,\MCFG
+mcfg_sw.uns.17 = 1,\MCFG
+mcfg_sw.mbn.16 = 1,\MCFG
+mcfg_sw.uns.15 = 1,\MCFG
+mcfg_sw.mbn.14 = 1,\MCFG
+mcfg_sw.uns.13 = 1,\MCFG
+mcfg_sw.mbn.12 = 1,\MCFG
+mcfg_sw.uns.11 = 1,\MCFG
+mcfg_sw.mbn.10 = 1,\MCFG
+oem_sw_w.txt.9 = 1,\MCFG
+oem_sw_a.txt.8 = 1,\MCFG
+oem_sw.txt.7 = 1,\MCFG
+mbn_sw.txt.6 = 1,\MCFG
+mbn_sw.dig.5 = 1,\MCFG
+oem_hw_w.txt.4 = 1,\MCFG
+oem_hw_a.txt.3 = 1,\MCFG
+mbn_hw.txt.2 = 1,\MCFG
+mbn_hw.dig.1 = 1,\MCFG
+
+-------------------------------
+
+CopyFiles=mcfg_sw.uns.283,mcfg_sw.mbn.282,mcfg_hw.uns.281,mcfg_hw.mbn.280,mcfg_sw.uns.279,mcfg_sw.mbn.278,mcfg_sw.uns.277,mcfg_sw.mbn.276,mcfg_sw.uns.275,mcfg_sw.mbn.274,mcfg_sw.uns.273,mcfg_sw.mbn.272,mcfg_sw.uns.271,mcfg_sw.mbn.270,mcfg_sw.uns.269,mcfg_sw.mbn.268,mcfg_sw.uns.267,mcfg_sw.mbn.266,mcfg_sw.uns.265,mcfg_sw.mbn.264,mcfg_sw.uns.263,mcfg_sw.mbn.262,mcfg_sw.uns.261,mcfg_sw.mbn.260,mcfg_sw.uns.259,mcfg_sw.mbn.258,mcfg_sw.uns.257,mcfg_sw.mbn.256,mcfg_sw.uns.255,mcfg_sw.mbn.254,mcfg_sw.uns.253,mcfg_sw.mbn.252,mcfg_sw.uns.251,mcfg_sw.mbn.250,mcfg_sw.uns.249,mcfg_sw.mbn.248,mcfg_sw.uns.247,mcfg_sw.mbn.246,mcfg_sw.uns.245,mcfg_sw.mbn.244,mcfg_sw.uns.243,mcfg_sw.mbn.242,mcfg_sw.uns.241,mcfg_sw.mbn.240,mcfg_sw.uns.239,mcfg_sw.mbn.238,mcfg_sw.uns.237,mcfg_sw.mbn.236,mcfg_sw.uns.235,mcfg_sw.mbn.234,mcfg_sw.uns.233,mcfg_sw.mbn.232,mcfg_sw.uns.231,mcfg_sw.mbn.230,mcfg_sw.uns.229,mcfg_sw.mbn.228,mcfg_sw.uns.227,mcfg_sw.mbn.226,mcfg_sw.uns.225,mcfg_sw.mbn.224,mcfg_sw.uns.223,mcfg_sw.mbn.222,mcfg_sw.uns.221,mcfg_sw.mbn.220,mcfg_sw.uns.219,mcfg_sw.mbn.218,mcfg_sw.uns.217,mcfg_sw.mbn.216,mcfg_sw.uns.215,mcfg_sw.mbn.214,mcfg_sw.uns.213,mcfg_sw.mbn.212,mcfg_sw.uns.211,mcfg_sw.mbn.210,mcfg_sw.uns.209,mcfg_sw.mbn.208,mcfg_sw.uns.207,mcfg_sw.mbn.206,mcfg_sw.uns.205,mcfg_sw.mbn.204,mcfg_sw.uns.203,mcfg_sw.mbn.202,mcfg_sw.uns.201,mcfg_sw.mbn.200,mcfg_sw.uns.199,mcfg_sw.mbn.198,mcfg_sw.uns.197,mcfg_sw.mbn.196,mcfg_sw.uns.195,mcfg_sw.mbn.194,mcfg_sw.uns.193,mcfg_sw.mbn.192,mcfg_sw.uns.191,mcfg_sw.mbn.190,mcfg_sw.uns.189,mcfg_sw.mbn.188,mcfg_sw.uns.187,mcfg_sw.mbn.186,mcfg_sw.uns.185,mcfg_sw.mbn.184,mcfg_sw.uns.183,mcfg_sw.mbn.182,mcfg_sw.uns.181,mcfg_sw.mbn.180,mcfg_sw.uns.179,mcfg_sw.mbn.178,mcfg_sw.uns.177,mcfg_sw.mbn.176,mcfg_sw.uns.175,mcfg_sw.mbn.174,mcfg_sw.uns.173,mcfg_sw.mbn.172,mcfg_sw.uns.171,mcfg_sw.mbn.170,mcfg_sw.uns.169,mcfg_sw.mbn.168,mcfg_sw.uns.167,mcfg_sw.mbn.166,mcfg_sw.uns.165,mcfg_sw.mbn.164,mcfg_sw.uns.163,mcfg_sw.mbn.162,mcfg_sw.uns.161,mcfg_sw.mbn.160,mcfg_sw.uns.159,mcfg_sw.mbn.158,mcfg_sw.uns.157,mcfg_sw.mbn.156,mcfg_sw.uns.155,mcfg_sw.mbn.154,mcfg_sw.uns.153,mcfg_sw.mbn.152,mcfg_sw.uns.151,mcfg_sw.mbn.150,mcfg_sw.uns.149,mcfg_sw.mbn.148,mcfg_sw.uns.147,mcfg_sw.mbn.146,mcfg_sw.uns.145,mcfg_sw.mbn.144,mcfg_sw.uns.143,mcfg_sw.mbn.142,mcfg_sw.uns.141,mcfg_sw.mbn.140,mcfg_sw.uns.139,mcfg_sw.mbn.138,mcfg_sw.uns.137,mcfg_sw.mbn.136,mcfg_sw.uns.135,mcfg_sw.mbn.134,mcfg_sw.uns.133,mcfg_sw.mbn.132,mcfg_sw.uns.131,mcfg_sw.mbn.130,mcfg_sw.uns.129,mcfg_sw.mbn.128,mcfg_sw.uns.127,mcfg_sw.mbn.126,mcfg_sw.uns.125,mcfg_sw.mbn.124,mcfg_sw.uns.123,mcfg_sw.mbn.122,mcfg_sw.uns.121,mcfg_sw.mbn.120,mcfg_sw.uns.119,mcfg_sw.mbn.118,mcfg_sw.uns.117,mcfg_sw.mbn.116,mcfg_sw.uns.115,mcfg_sw.mbn.114,mcfg_sw.uns.113,mcfg_sw.mbn.112,mcfg_sw.uns.111,mcfg_sw.mbn.110,mcfg_sw.uns.109,mcfg_sw.mbn.108,mcfg_sw.uns.107,mcfg_sw.mbn.106,mcfg_sw.uns.105,mcfg_sw.mbn.104,mcfg_sw.uns.103,mcfg_sw.mbn.102,mcfg_sw.uns.101,mcfg_sw.mbn.100,mcfg_sw.uns.99,mcfg_sw.mbn.98,mcfg_sw.uns.97,mcfg_sw.mbn.96,mcfg_sw.uns.95,mcfg_sw.mbn.94,mcfg_sw.uns.93,mcfg_sw.mbn.92,mcfg_sw.uns.91,mcfg_sw.mbn.90,mcfg_sw.uns.89,mcfg_sw.mbn.88,mcfg_sw.uns.87,mcfg_sw.mbn.86,mcfg_sw.uns.85,mcfg_sw.mbn.84,mcfg_sw.uns.83,mcfg_sw.mbn.82,mcfg_sw.uns.81,mcfg_sw.mbn.80,mcfg_sw.uns.79,mcfg_sw.mbn.78,mcfg_sw.uns.77,mcfg_sw.mbn.76,mcfg_sw.uns.75,mcfg_sw.mbn.74,mcfg_sw.uns.73,mcfg_sw.mbn.72,mcfg_sw.uns.71,mcfg_sw.mbn.70,mcfg_sw.uns.69,mcfg_sw.mbn.68,mcfg_sw.uns.67,mcfg_sw.mbn.66,mcfg_sw.uns.65,mcfg_sw.mbn.64,mcfg_sw.uns.63,mcfg_sw.mbn.62,mcfg_sw.uns.61,mcfg_sw.mbn.60,mcfg_sw.uns.59,mcfg_sw.mbn.58,mcfg_sw.uns.57,mcfg_sw.mbn.56,mcfg_sw.uns.55,mcfg_sw.mbn.54,mcfg_sw.uns.53,mcfg_sw.mbn.52,mcfg_sw.uns.51,mcfg_sw.mbn.50,mcfg_sw.uns.49,mcfg_sw.mbn.48,mcfg_sw.uns.47,mcfg_sw.mbn.46,mcfg_sw.uns.45,mcfg_sw.mbn.44,mcfg_sw.uns.43,mcfg_sw.mbn.42,mcfg_sw.uns.41,mcfg_sw.mbn.40,mcfg_sw.uns.39,mcfg_sw.mbn.38,mcfg_sw.uns.37,mcfg_sw.mbn.36,mcfg_sw.uns.35,mcfg_sw.mbn.34,mcfg_sw.uns.33,mcfg_sw.mbn.32,mcfg_sw.uns.31,mcfg_sw.mbn.30,mcfg_sw.uns.29,mcfg_sw.mbn.28,mcfg_sw.uns.27,mcfg_sw.mbn.26,mcfg_sw.uns.25,mcfg_sw.mbn.24,mcfg_sw.uns.23,mcfg_sw.mbn.22,mcfg_sw.uns.21,mcfg_sw.mbn.20,mcfg_sw.uns.19,mcfg_sw.mbn.18,mcfg_sw.uns.17,mcfg_sw.mbn.16,mcfg_sw.uns.15,mcfg_sw.mbn.14,mcfg_sw.uns.13,mcfg_sw.mbn.12,mcfg_sw.uns.11,mcfg_sw.mbn.10,oem_sw_w.txt.9,oem_sw_a.txt.8,oem_sw.txt.7,mbn_sw.txt.6,mbn_sw.dig.5,oem_hw_w.txt.4,oem_hw_a.txt.3,mbn_hw.txt.2,mbn_hw.dig.1
+
+-------------------------------
+
+[mcfg_sw.uns.283]
+mcfg_sw.uns.283
+[mcfg_sw.mbn.282]
+mcfg_sw.mbn.282
+[mcfg_hw.uns.281]
+mcfg_hw.uns.281
+[mcfg_hw.mbn.280]
+mcfg_hw.mbn.280
+[mcfg_sw.uns.279]
+mcfg_sw.uns.279
+[mcfg_sw.mbn.278]
+mcfg_sw.mbn.278
+[mcfg_sw.uns.277]
+mcfg_sw.uns.277
+[mcfg_sw.mbn.276]
+mcfg_sw.mbn.276
+[mcfg_sw.uns.275]
+mcfg_sw.uns.275
+[mcfg_sw.mbn.274]
+mcfg_sw.mbn.274
+[mcfg_sw.uns.273]
+mcfg_sw.uns.273
+[mcfg_sw.mbn.272]
+mcfg_sw.mbn.272
+[mcfg_sw.uns.271]
+mcfg_sw.uns.271
+[mcfg_sw.mbn.270]
+mcfg_sw.mbn.270
+[mcfg_sw.uns.269]
+mcfg_sw.uns.269
+[mcfg_sw.mbn.268]
+mcfg_sw.mbn.268
+[mcfg_sw.uns.267]
+mcfg_sw.uns.267
+[mcfg_sw.mbn.266]
+mcfg_sw.mbn.266
+[mcfg_sw.uns.265]
+mcfg_sw.uns.265
+[mcfg_sw.mbn.264]
+mcfg_sw.mbn.264
+[mcfg_sw.uns.263]
+mcfg_sw.uns.263
+[mcfg_sw.mbn.262]
+mcfg_sw.mbn.262
+[mcfg_sw.uns.261]
+mcfg_sw.uns.261
+[mcfg_sw.mbn.260]
+mcfg_sw.mbn.260
+[mcfg_sw.uns.259]
+mcfg_sw.uns.259
+[mcfg_sw.mbn.258]
+mcfg_sw.mbn.258
+[mcfg_sw.uns.257]
+mcfg_sw.uns.257
+[mcfg_sw.mbn.256]
+mcfg_sw.mbn.256
+[mcfg_sw.uns.255]
+mcfg_sw.uns.255
+[mcfg_sw.mbn.254]
+mcfg_sw.mbn.254
+[mcfg_sw.uns.253]
+mcfg_sw.uns.253
+[mcfg_sw.mbn.252]
+mcfg_sw.mbn.252
+[mcfg_sw.uns.251]
+mcfg_sw.uns.251
+[mcfg_sw.mbn.250]
+mcfg_sw.mbn.250
+[mcfg_sw.uns.249]
+mcfg_sw.uns.249
+[mcfg_sw.mbn.248]
+mcfg_sw.mbn.248
+[mcfg_sw.uns.247]
+mcfg_sw.uns.247
+[mcfg_sw.mbn.246]
+mcfg_sw.mbn.246
+[mcfg_sw.uns.245]
+mcfg_sw.uns.245
+[mcfg_sw.mbn.244]
+mcfg_sw.mbn.244
+[mcfg_sw.uns.243]
+mcfg_sw.uns.243
+[mcfg_sw.mbn.242]
+mcfg_sw.mbn.242
+[mcfg_sw.uns.241]
+mcfg_sw.uns.241
+[mcfg_sw.mbn.240]
+mcfg_sw.mbn.240
+[mcfg_sw.uns.239]
+mcfg_sw.uns.239
+[mcfg_sw.mbn.238]
+mcfg_sw.mbn.238
+[mcfg_sw.uns.237]
+mcfg_sw.uns.237
+[mcfg_sw.mbn.236]
+mcfg_sw.mbn.236
+[mcfg_sw.uns.235]
+mcfg_sw.uns.235
+[mcfg_sw.mbn.234]
+mcfg_sw.mbn.234
+[mcfg_sw.uns.233]
+mcfg_sw.uns.233
+[mcfg_sw.mbn.232]
+mcfg_sw.mbn.232
+[mcfg_sw.uns.231]
+mcfg_sw.uns.231
+[mcfg_sw.mbn.230]
+mcfg_sw.mbn.230
+[mcfg_sw.uns.229]
+mcfg_sw.uns.229
+[mcfg_sw.mbn.228]
+mcfg_sw.mbn.228
+[mcfg_sw.uns.227]
+mcfg_sw.uns.227
+[mcfg_sw.mbn.226]
+mcfg_sw.mbn.226
+[mcfg_sw.uns.225]
+mcfg_sw.uns.225
+[mcfg_sw.mbn.224]
+mcfg_sw.mbn.224
+[mcfg_sw.uns.223]
+mcfg_sw.uns.223
+[mcfg_sw.mbn.222]
+mcfg_sw.mbn.222
+[mcfg_sw.uns.221]
+mcfg_sw.uns.221
+[mcfg_sw.mbn.220]
+mcfg_sw.mbn.220
+[mcfg_sw.uns.219]
+mcfg_sw.uns.219
+[mcfg_sw.mbn.218]
+mcfg_sw.mbn.218
+[mcfg_sw.uns.217]
+mcfg_sw.uns.217
+[mcfg_sw.mbn.216]
+mcfg_sw.mbn.216
+[mcfg_sw.uns.215]
+mcfg_sw.uns.215
+[mcfg_sw.mbn.214]
+mcfg_sw.mbn.214
+[mcfg_sw.uns.213]
+mcfg_sw.uns.213
+[mcfg_sw.mbn.212]
+mcfg_sw.mbn.212
+[mcfg_sw.uns.211]
+mcfg_sw.uns.211
+[mcfg_sw.mbn.210]
+mcfg_sw.mbn.210
+[mcfg_sw.uns.209]
+mcfg_sw.uns.209
+[mcfg_sw.mbn.208]
+mcfg_sw.mbn.208
+[mcfg_sw.uns.207]
+mcfg_sw.uns.207
+[mcfg_sw.mbn.206]
+mcfg_sw.mbn.206
+[mcfg_sw.uns.205]
+mcfg_sw.uns.205
+[mcfg_sw.mbn.204]
+mcfg_sw.mbn.204
+[mcfg_sw.uns.203]
+mcfg_sw.uns.203
+[mcfg_sw.mbn.202]
+mcfg_sw.mbn.202
+[mcfg_sw.uns.201]
+mcfg_sw.uns.201
+[mcfg_sw.mbn.200]
+mcfg_sw.mbn.200
+[mcfg_sw.uns.199]
+mcfg_sw.uns.199
+[mcfg_sw.mbn.198]
+mcfg_sw.mbn.198
+[mcfg_sw.uns.197]
+mcfg_sw.uns.197
+[mcfg_sw.mbn.196]
+mcfg_sw.mbn.196
+[mcfg_sw.uns.195]
+mcfg_sw.uns.195
+[mcfg_sw.mbn.194]
+mcfg_sw.mbn.194
+[mcfg_sw.uns.193]
+mcfg_sw.uns.193
+[mcfg_sw.mbn.192]
+mcfg_sw.mbn.192
+[mcfg_sw.uns.191]
+mcfg_sw.uns.191
+[mcfg_sw.mbn.190]
+mcfg_sw.mbn.190
+[mcfg_sw.uns.189]
+mcfg_sw.uns.189
+[mcfg_sw.mbn.188]
+mcfg_sw.mbn.188
+[mcfg_sw.uns.187]
+mcfg_sw.uns.187
+[mcfg_sw.mbn.186]
+mcfg_sw.mbn.186
+[mcfg_sw.uns.185]
+mcfg_sw.uns.185
+[mcfg_sw.mbn.184]
+mcfg_sw.mbn.184
+[mcfg_sw.uns.183]
+mcfg_sw.uns.183
+[mcfg_sw.mbn.182]
+mcfg_sw.mbn.182
+[mcfg_sw.uns.181]
+mcfg_sw.uns.181
+[mcfg_sw.mbn.180]
+mcfg_sw.mbn.180
+[mcfg_sw.uns.179]
+mcfg_sw.uns.179
+[mcfg_sw.mbn.178]
+mcfg_sw.mbn.178
+[mcfg_sw.uns.177]
+mcfg_sw.uns.177
+[mcfg_sw.mbn.176]
+mcfg_sw.mbn.176
+[mcfg_sw.uns.175]
+mcfg_sw.uns.175
+[mcfg_sw.mbn.174]
+mcfg_sw.mbn.174
+[mcfg_sw.uns.173]
+mcfg_sw.uns.173
+[mcfg_sw.mbn.172]
+mcfg_sw.mbn.172
+[mcfg_sw.uns.171]
+mcfg_sw.uns.171
+[mcfg_sw.mbn.170]
+mcfg_sw.mbn.170
+[mcfg_sw.uns.169]
+mcfg_sw.uns.169
+[mcfg_sw.mbn.168]
+mcfg_sw.mbn.168
+[mcfg_sw.uns.167]
+mcfg_sw.uns.167
+[mcfg_sw.mbn.166]
+mcfg_sw.mbn.166
+[mcfg_sw.uns.165]
+mcfg_sw.uns.165
+[mcfg_sw.mbn.164]
+mcfg_sw.mbn.164
+[mcfg_sw.uns.163]
+mcfg_sw.uns.163
+[mcfg_sw.mbn.162]
+mcfg_sw.mbn.162
+[mcfg_sw.uns.161]
+mcfg_sw.uns.161
+[mcfg_sw.mbn.160]
+mcfg_sw.mbn.160
+[mcfg_sw.uns.159]
+mcfg_sw.uns.159
+[mcfg_sw.mbn.158]
+mcfg_sw.mbn.158
+[mcfg_sw.uns.157]
+mcfg_sw.uns.157
+[mcfg_sw.mbn.156]
+mcfg_sw.mbn.156
+[mcfg_sw.uns.155]
+mcfg_sw.uns.155
+[mcfg_sw.mbn.154]
+mcfg_sw.mbn.154
+[mcfg_sw.uns.153]
+mcfg_sw.uns.153
+[mcfg_sw.mbn.152]
+mcfg_sw.mbn.152
+[mcfg_sw.uns.151]
+mcfg_sw.uns.151
+[mcfg_sw.mbn.150]
+mcfg_sw.mbn.150
+[mcfg_sw.uns.149]
+mcfg_sw.uns.149
+[mcfg_sw.mbn.148]
+mcfg_sw.mbn.148
+[mcfg_sw.uns.147]
+mcfg_sw.uns.147
+[mcfg_sw.mbn.146]
+mcfg_sw.mbn.146
+[mcfg_sw.uns.145]
+mcfg_sw.uns.145
+[mcfg_sw.mbn.144]
+mcfg_sw.mbn.144
+[mcfg_sw.uns.143]
+mcfg_sw.uns.143
+[mcfg_sw.mbn.142]
+mcfg_sw.mbn.142
+[mcfg_sw.uns.141]
+mcfg_sw.uns.141
+[mcfg_sw.mbn.140]
+mcfg_sw.mbn.140
+[mcfg_sw.uns.139]
+mcfg_sw.uns.139
+[mcfg_sw.mbn.138]
+mcfg_sw.mbn.138
+[mcfg_sw.uns.137]
+mcfg_sw.uns.137
+[mcfg_sw.mbn.136]
+mcfg_sw.mbn.136
+[mcfg_sw.uns.135]
+mcfg_sw.uns.135
+[mcfg_sw.mbn.134]
+mcfg_sw.mbn.134
+[mcfg_sw.uns.133]
+mcfg_sw.uns.133
+[mcfg_sw.mbn.132]
+mcfg_sw.mbn.132
+[mcfg_sw.uns.131]
+mcfg_sw.uns.131
+[mcfg_sw.mbn.130]
+mcfg_sw.mbn.130
+[mcfg_sw.uns.129]
+mcfg_sw.uns.129
+[mcfg_sw.mbn.128]
+mcfg_sw.mbn.128
+[mcfg_sw.uns.127]
+mcfg_sw.uns.127
+[mcfg_sw.mbn.126]
+mcfg_sw.mbn.126
+[mcfg_sw.uns.125]
+mcfg_sw.uns.125
+[mcfg_sw.mbn.124]
+mcfg_sw.mbn.124
+[mcfg_sw.uns.123]
+mcfg_sw.uns.123
+[mcfg_sw.mbn.122]
+mcfg_sw.mbn.122
+[mcfg_sw.uns.121]
+mcfg_sw.uns.121
+[mcfg_sw.mbn.120]
+mcfg_sw.mbn.120
+[mcfg_sw.uns.119]
+mcfg_sw.uns.119
+[mcfg_sw.mbn.118]
+mcfg_sw.mbn.118
+[mcfg_sw.uns.117]
+mcfg_sw.uns.117
+[mcfg_sw.mbn.116]
+mcfg_sw.mbn.116
+[mcfg_sw.uns.115]
+mcfg_sw.uns.115
+[mcfg_sw.mbn.114]
+mcfg_sw.mbn.114
+[mcfg_sw.uns.113]
+mcfg_sw.uns.113
+[mcfg_sw.mbn.112]
+mcfg_sw.mbn.112
+[mcfg_sw.uns.111]
+mcfg_sw.uns.111
+[mcfg_sw.mbn.110]
+mcfg_sw.mbn.110
+[mcfg_sw.uns.109]
+mcfg_sw.uns.109
+[mcfg_sw.mbn.108]
+mcfg_sw.mbn.108
+[mcfg_sw.uns.107]
+mcfg_sw.uns.107
+[mcfg_sw.mbn.106]
+mcfg_sw.mbn.106
+[mcfg_sw.uns.105]
+mcfg_sw.uns.105
+[mcfg_sw.mbn.104]
+mcfg_sw.mbn.104
+[mcfg_sw.uns.103]
+mcfg_sw.uns.103
+[mcfg_sw.mbn.102]
+mcfg_sw.mbn.102
+[mcfg_sw.uns.101]
+mcfg_sw.uns.101
+[mcfg_sw.mbn.100]
+mcfg_sw.mbn.100
+[mcfg_sw.uns.99]
+mcfg_sw.uns.99
+[mcfg_sw.mbn.98]
+mcfg_sw.mbn.98
+[mcfg_sw.uns.97]
+mcfg_sw.uns.97
+[mcfg_sw.mbn.96]
+mcfg_sw.mbn.96
+[mcfg_sw.uns.95]
+mcfg_sw.uns.95
+[mcfg_sw.mbn.94]
+mcfg_sw.mbn.94
+[mcfg_sw.uns.93]
+mcfg_sw.uns.93
+[mcfg_sw.mbn.92]
+mcfg_sw.mbn.92
+[mcfg_sw.uns.91]
+mcfg_sw.uns.91
+[mcfg_sw.mbn.90]
+mcfg_sw.mbn.90
+[mcfg_sw.uns.89]
+mcfg_sw.uns.89
+[mcfg_sw.mbn.88]
+mcfg_sw.mbn.88
+[mcfg_sw.uns.87]
+mcfg_sw.uns.87
+[mcfg_sw.mbn.86]
+mcfg_sw.mbn.86
+[mcfg_sw.uns.85]
+mcfg_sw.uns.85
+[mcfg_sw.mbn.84]
+mcfg_sw.mbn.84
+[mcfg_sw.uns.83]
+mcfg_sw.uns.83
+[mcfg_sw.mbn.82]
+mcfg_sw.mbn.82
+[mcfg_sw.uns.81]
+mcfg_sw.uns.81
+[mcfg_sw.mbn.80]
+mcfg_sw.mbn.80
+[mcfg_sw.uns.79]
+mcfg_sw.uns.79
+[mcfg_sw.mbn.78]
+mcfg_sw.mbn.78
+[mcfg_sw.uns.77]
+mcfg_sw.uns.77
+[mcfg_sw.mbn.76]
+mcfg_sw.mbn.76
+[mcfg_sw.uns.75]
+mcfg_sw.uns.75
+[mcfg_sw.mbn.74]
+mcfg_sw.mbn.74
+[mcfg_sw.uns.73]
+mcfg_sw.uns.73
+[mcfg_sw.mbn.72]
+mcfg_sw.mbn.72
+[mcfg_sw.uns.71]
+mcfg_sw.uns.71
+[mcfg_sw.mbn.70]
+mcfg_sw.mbn.70
+[mcfg_sw.uns.69]
+mcfg_sw.uns.69
+[mcfg_sw.mbn.68]
+mcfg_sw.mbn.68
+[mcfg_sw.uns.67]
+mcfg_sw.uns.67
+[mcfg_sw.mbn.66]
+mcfg_sw.mbn.66
+[mcfg_sw.uns.65]
+mcfg_sw.uns.65
+[mcfg_sw.mbn.64]
+mcfg_sw.mbn.64
+[mcfg_sw.uns.63]
+mcfg_sw.uns.63
+[mcfg_sw.mbn.62]
+mcfg_sw.mbn.62
+[mcfg_sw.uns.61]
+mcfg_sw.uns.61
+[mcfg_sw.mbn.60]
+mcfg_sw.mbn.60
+[mcfg_sw.uns.59]
+mcfg_sw.uns.59
+[mcfg_sw.mbn.58]
+mcfg_sw.mbn.58
+[mcfg_sw.uns.57]
+mcfg_sw.uns.57
+[mcfg_sw.mbn.56]
+mcfg_sw.mbn.56
+[mcfg_sw.uns.55]
+mcfg_sw.uns.55
+[mcfg_sw.mbn.54]
+mcfg_sw.mbn.54
+[mcfg_sw.uns.53]
+mcfg_sw.uns.53
+[mcfg_sw.mbn.52]
+mcfg_sw.mbn.52
+[mcfg_sw.uns.51]
+mcfg_sw.uns.51
+[mcfg_sw.mbn.50]
+mcfg_sw.mbn.50
+[mcfg_sw.uns.49]
+mcfg_sw.uns.49
+[mcfg_sw.mbn.48]
+mcfg_sw.mbn.48
+[mcfg_sw.uns.47]
+mcfg_sw.uns.47
+[mcfg_sw.mbn.46]
+mcfg_sw.mbn.46
+[mcfg_sw.uns.45]
+mcfg_sw.uns.45
+[mcfg_sw.mbn.44]
+mcfg_sw.mbn.44
+[mcfg_sw.uns.43]
+mcfg_sw.uns.43
+[mcfg_sw.mbn.42]
+mcfg_sw.mbn.42
+[mcfg_sw.uns.41]
+mcfg_sw.uns.41
+[mcfg_sw.mbn.40]
+mcfg_sw.mbn.40
+[mcfg_sw.uns.39]
+mcfg_sw.uns.39
+[mcfg_sw.mbn.38]
+mcfg_sw.mbn.38
+[mcfg_sw.uns.37]
+mcfg_sw.uns.37
+[mcfg_sw.mbn.36]
+mcfg_sw.mbn.36
+[mcfg_sw.uns.35]
+mcfg_sw.uns.35
+[mcfg_sw.mbn.34]
+mcfg_sw.mbn.34
+[mcfg_sw.uns.33]
+mcfg_sw.uns.33
+[mcfg_sw.mbn.32]
+mcfg_sw.mbn.32
+[mcfg_sw.uns.31]
+mcfg_sw.uns.31
+[mcfg_sw.mbn.30]
+mcfg_sw.mbn.30
+[mcfg_sw.uns.29]
+mcfg_sw.uns.29
+[mcfg_sw.mbn.28]
+mcfg_sw.mbn.28
+[mcfg_sw.uns.27]
+mcfg_sw.uns.27
+[mcfg_sw.mbn.26]
+mcfg_sw.mbn.26
+[mcfg_sw.uns.25]
+mcfg_sw.uns.25
+[mcfg_sw.mbn.24]
+mcfg_sw.mbn.24
+[mcfg_sw.uns.23]
+mcfg_sw.uns.23
+[mcfg_sw.mbn.22]
+mcfg_sw.mbn.22
+[mcfg_sw.uns.21]
+mcfg_sw.uns.21
+[mcfg_sw.mbn.20]
+mcfg_sw.mbn.20
+[mcfg_sw.uns.19]
+mcfg_sw.uns.19
+[mcfg_sw.mbn.18]
+mcfg_sw.mbn.18
+[mcfg_sw.uns.17]
+mcfg_sw.uns.17
+[mcfg_sw.mbn.16]
+mcfg_sw.mbn.16
+[mcfg_sw.uns.15]
+mcfg_sw.uns.15
+[mcfg_sw.mbn.14]
+mcfg_sw.mbn.14
+[mcfg_sw.uns.13]
+mcfg_sw.uns.13
+[mcfg_sw.mbn.12]
+mcfg_sw.mbn.12
+[mcfg_sw.uns.11]
+mcfg_sw.uns.11
+[mcfg_sw.mbn.10]
+mcfg_sw.mbn.10
+[oem_sw_w.txt.9]
+oem_sw_w.txt.9
+[oem_sw_a.txt.8]
+oem_sw_a.txt.8
+[oem_sw.txt.7]
+oem_sw.txt.7
+[mbn_sw.txt.6]
+mbn_sw.txt.6
+[mbn_sw.dig.5]
+mbn_sw.dig.5
+[oem_hw_w.txt.4]
+oem_hw_w.txt.4
+[oem_hw_a.txt.3]
+oem_hw_a.txt.3
+[mbn_hw.txt.2]
+mbn_hw.txt.2
+[mbn_hw.dig.1]
+mbn_hw.dig.1
+
+-------------------------------
+
+; Updating registry of mbn_hw.dig.1 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\mbn_hw.dig
+HKR,Mappings\TFTP\Default\c3b6f0c8e600a5a3e601ae98386449c45aafdb30e348ef56327439c06ea6208d,"Local",%REG_SZ%, %13%\MCFG\mbn_hw.dig.1
+hkr,mappings\tftp\default\c3b6f0c8e600a5a3e601ae98386449c45aafdb30e348ef56327439c06ea6208d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\mbn_hw.dig
+
+; Updating registry of mbn_hw.txt.2 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\mbn_hw.txt
+HKR,Mappings\TFTP\Default\6e3ac537fae238d5bcb37c4d499c464a06c385492c3b26343de638ad4976190a,"Local",%REG_SZ%, %13%\MCFG\mbn_hw.txt.2
+hkr,mappings\tftp\default\6e3ac537fae238d5bcb37c4d499c464a06c385492c3b26343de638ad4976190a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\mbn_hw.txt
+
+; Updating registry of oem_hw_a.txt.3 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\oem_hw_a.txt
+HKR,Mappings\TFTP\Default\8783ea2518d0588dc2a2194841399e12167c8ed6cb71171e7212e164148e0c8b,"Local",%REG_SZ%, %13%\MCFG\oem_hw_a.txt.3
+hkr,mappings\tftp\default\8783ea2518d0588dc2a2194841399e12167c8ed6cb71171e7212e164148e0c8b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\oem_hw_a.txt
+
+; Updating registry of oem_hw_w.txt.4 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\oem_hw_w.txt
+HKR,Mappings\TFTP\Default\4def3db5a58c4452418adc748917580ccf47e2aa2968167c1d97c0194d7f8a04,"Local",%REG_SZ%, %13%\MCFG\oem_hw_w.txt.4
+hkr,mappings\tftp\default\4def3db5a58c4452418adc748917580ccf47e2aa2968167c1d97c0194d7f8a04,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\oem_hw_w.txt
+
+; Updating registry of mbn_sw.dig.5 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\mbn_sw.dig
+HKR,Mappings\TFTP\Default\1e1f568f842fdbf82a3d740be073dd65365e5128141ee95f52aa54a3e9a8d6e8,"Local",%REG_SZ%, %13%\MCFG\mbn_sw.dig.5
+hkr,mappings\tftp\default\1e1f568f842fdbf82a3d740be073dd65365e5128141ee95f52aa54a3e9a8d6e8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\mbn_sw.dig
+
+; Updating registry of mbn_sw.txt.6 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\mbn_sw.txt
+HKR,Mappings\TFTP\Default\2a71b7edfbbb79fd67bcd06f8610efbc2f658c2e3cc41d4c23df6fd762354cb5,"Local",%REG_SZ%, %13%\MCFG\mbn_sw.txt.6
+hkr,mappings\tftp\default\2a71b7edfbbb79fd67bcd06f8610efbc2f658c2e3cc41d4c23df6fd762354cb5,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\mbn_sw.txt
+
+; Updating registry of oem_sw.txt.7 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\oem_sw.txt
+HKR,Mappings\TFTP\Default\ca4051f81e4735817692c8e10153ef248e3504e5581577b7d6cd6cf41d4710e6,"Local",%REG_SZ%, %13%\MCFG\oem_sw.txt.7
+hkr,mappings\tftp\default\ca4051f81e4735817692c8e10153ef248e3504e5581577b7d6cd6cf41d4710e6,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\oem_sw.txt
+
+; Updating registry of oem_sw_a.txt.8 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\oem_sw_a.txt
+HKR,Mappings\TFTP\Default\c220116c03ef95cb0b9bb6f0f6aa492b9d91ae8d1a6c461897012e90c37b4cc5,"Local",%REG_SZ%, %13%\MCFG\oem_sw_a.txt.8
+hkr,mappings\tftp\default\c220116c03ef95cb0b9bb6f0f6aa492b9d91ae8d1a6c461897012e90c37b4cc5,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\oem_sw_a.txt
+
+; Updating registry of oem_sw_w.txt.9 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\oem_sw_w.txt
+HKR,Mappings\TFTP\Default\53f692ab51d725685027d3f635d9a0547999ce8d7a4788ff545533a46aae1762,"Local",%REG_SZ%, %13%\MCFG\oem_sw_w.txt.9
+hkr,mappings\tftp\default\53f692ab51d725685027d3f635d9a0547999ce8d7a4788ff545533a46aae1762,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\oem_sw_w.txt
+
+; Updating registry of mcfg_sw.mbn.10 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\dcm\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\2e87e9e7552387810ffc54e49ad6eec961c96f093ff9d4c61353521cc327b5ba,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.10
+hkr,mappings\tftp\default\2e87e9e7552387810ffc54e49ad6eec961c96f093ff9d4c61353521cc327b5ba,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\dcm\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.11 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\dcm\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\6f280068b285017750ef0691996d6968604182ca129e4a1cc5e4d0f473a61c74,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.11
+hkr,mappings\tftp\default\6f280068b285017750ef0691996d6968604182ca129e4a1cc5e4d0f473a61c74,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\dcm\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.12 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\kddi\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\a0483ba01e14e97eb67ad9079ba31dfb56c975317e2b9b30f53277ca4701beb2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.12
+hkr,mappings\tftp\default\a0483ba01e14e97eb67ad9079ba31dfb56c975317e2b9b30f53277ca4701beb2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\kddi\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.13 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\kddi\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e57b05de68d666c55e955a10aff53519f6fd5fd70abad74d9b41a2c3b0c1d605,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.13
+hkr,mappings\tftp\default\e57b05de68d666c55e955a10aff53519f6fd5fd70abad74d9b41a2c3b0c1d605,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\kddi\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.14 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\rakuten\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\218aef0ff52361609b6a3d14bcfaae82d7abf97d299818bb36075da1c2bd0bdb,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.14
+hkr,mappings\tftp\default\218aef0ff52361609b6a3d14bcfaae82d7abf97d299818bb36075da1c2bd0bdb,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\rakuten\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.15 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\rakuten\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\9ddf68dae657692bc961505fcee56a7747cafe8b90fba76d65f46a2fcf88a49b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.15
+hkr,mappings\tftp\default\9ddf68dae657692bc961505fcee56a7747cafe8b90fba76d65f46a2fcf88a49b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\rakuten\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.16 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\reliance\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\b7d09710edd7b3b4e4fc150d5289819a7cb6b4eaeeece434c41e0426dde768cc,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.16
+hkr,mappings\tftp\default\b7d09710edd7b3b4e4fc150d5289819a7cb6b4eaeeece434c41e0426dde768cc,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\reliance\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.17 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\reliance\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\409e6658224eb6d498a6914c3ff9cadf856bd89a2ccbe6b7a3590f4a2d3e7387,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.17
+hkr,mappings\tftp\default\409e6658224eb6d498a6914c3ff9cadf856bd89a2ccbe6b7a3590f4a2d3e7387,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\reliance\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.18 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\sbm\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\7f4b87ab0597a32f5cded0ed0b6292fc511e45b1599b4c803711e3991b0ff37b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.18
+hkr,mappings\tftp\default\7f4b87ab0597a32f5cded0ed0b6292fc511e45b1599b4c803711e3991b0ff37b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\sbm\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.19 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\sbm\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\5cbf411d773c8432e617600dfc3ad8837f0381a79abc58a926c32fc566c6dd3a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.19
+hkr,mappings\tftp\default\5cbf411d773c8432e617600dfc3ad8837f0381a79abc58a926c32fc566c6dd3a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\apac\sbm\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.20 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\telstra\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f76f0cbc05fd8928ff76a30296efc500add15ff7ba8453d57d9105aa3852f25a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.20
+hkr,mappings\tftp\default\f76f0cbc05fd8928ff76a30296efc500add15ff7ba8453d57d9105aa3852f25a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\telstra\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.21 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\telstra\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c6d4d9c3dc1531e09d5a65ca9cfdba3ad264e80babc5678bc5fa59c2f30f891e,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.21
+hkr,mappings\tftp\default\c6d4d9c3dc1531e09d5a65ca9cfdba3ad264e80babc5678bc5fa59c2f30f891e,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\telstra\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.22 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\vodafone\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\fb883764876f4f190f75b34a8213df4f7545d99dd34301048ac0b9044f641cf0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.22
+hkr,mappings\tftp\default\fb883764876f4f190f75b34a8213df4f7545d99dd34301048ac0b9044f641cf0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\vodafone\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.23 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\vodafone\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\a33f8ff0b9cef6f1d4d93abdd268d160a279ebf84b58bf3a03bb8d19c05e92c8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.23
+hkr,mappings\tftp\default\a33f8ff0b9cef6f1d4d93abdd268d160a279ebf84b58bf3a03bb8d19c05e92c8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\vodafone\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.24 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\row\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\3dece1470e7c01d5b3f833b54fbadaa7eb272e432ad505d6880eb3a81db7fc72,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.24
+hkr,mappings\tftp\default\3dece1470e7c01d5b3f833b54fbadaa7eb272e432ad505d6880eb3a81db7fc72,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\row\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.25 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\row\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\64097619b77052ed3431ed616f79ef988e30cd9224909421f93c783444442439,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.25
+hkr,mappings\tftp\default\64097619b77052ed3431ed616f79ef988e30cd9224909421f93c783444442439,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\row\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.26 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\w_one\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\fc5297b210b5d35b91c4e05fe929785be98df9f3214448ef4ab1475caa9ec257,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.26
+hkr,mappings\tftp\default\fc5297b210b5d35b91c4e05fe929785be98df9f3214448ef4ab1475caa9ec257,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\w_one\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.27 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\w_one\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\089462b7fa1f1a2c29086920f09aacf39f3f0fc96bb46c7fd39e764fecf5406d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.27
+hkr,mappings\tftp\default\089462b7fa1f1a2c29086920f09aacf39f3f0fc96bb46c7fd39e764fecf5406d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\common\w_one\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.28 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\ee\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\c885c0aeca72cf57e279ab354a33b066b6b013281a6c32a795ae697e2fb75b2d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.28
+hkr,mappings\tftp\default\c885c0aeca72cf57e279ab354a33b066b6b013281a6c32a795ae697e2fb75b2d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\ee\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.29 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\ee\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\9a3b204319fe8b313149164f38a5f46a05c890be1dfb65443cfb702cb97f3417,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.29
+hkr,mappings\tftp\default\9a3b204319fe8b313149164f38a5f46a05c890be1dfb65443cfb702cb97f3417,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\ee\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.30 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\non_volt\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\d69c0e0867d64c0f5a20a012fe15242b859d69923debdd7efdaab538ebea1726,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.30
+hkr,mappings\tftp\default\d69c0e0867d64c0f5a20a012fe15242b859d69923debdd7efdaab538ebea1726,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\non_volt\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.31 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\non_volt\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\7f6e128f73caeb8fc0418e74b8bc8f045575778448a98cd1d1b80683a3e7c297,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.31
+hkr,mappings\tftp\default\7f6e128f73caeb8fc0418e74b8bc8f045575778448a98cd1d1b80683a3e7c297,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\non_volt\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.32 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\kt\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\c62e9c194c5f9d79e5633d1411f2b12451c6b140cc0c4508fee562479a75e29e,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.32
+hkr,mappings\tftp\default\c62e9c194c5f9d79e5633d1411f2b12451c6b140cc0c4508fee562479a75e29e,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\kt\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.33 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\kt\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\153c70a291d06542b73a7237a81fe783debdcf6078fa8ebf9013e101c1d53b98,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.33
+hkr,mappings\tftp\default\153c70a291d06542b73a7237a81fe783debdcf6078fa8ebf9013e101c1d53b98,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\kt\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.34 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\lgu\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\78f18ba47e6f9222424ca142c33576aff7bd2590c2519110b60119fb4cf1cac0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.34
+hkr,mappings\tftp\default\78f18ba47e6f9222424ca142c33576aff7bd2590c2519110b60119fb4cf1cac0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\lgu\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.35 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\lgu\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\341294091f4a7ca2269ffb5fd9d5bfced9a0f25908a4756745fc708aecf196bd,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.35
+hkr,mappings\tftp\default\341294091f4a7ca2269ffb5fd9d5bfced9a0f25908a4756745fc708aecf196bd,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\lgu\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.36 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\skt\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\8f1c7cf6668139ce4dc53eb729db714368d2a4357fb091d191c756078304f50e,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.36
+hkr,mappings\tftp\default\8f1c7cf6668139ce4dc53eb729db714368d2a4357fb091d191c756078304f50e,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\skt\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.37 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\skt\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\4671ca97196ede8a5165bedbb26d5695bfc1d4a5ef43bef39dec7c46a713dfce,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.37
+hkr,mappings\tftp\default\4671ca97196ede8a5165bedbb26d5695bfc1d4a5ef43bef39dec7c46a713dfce,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\skt\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.38 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\tta\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\c7fd0532f61401d4bbe26d1862c305753b30e71e885d43269e14263dfcd912ce,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.38
+hkr,mappings\tftp\default\c7fd0532f61401d4bbe26d1862c305753b30e71e885d43269e14263dfcd912ce,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\tta\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.39 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\tta\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\da5843fc053ad1e74042722b6b9ba9a343cba294f0cbec24636c846a0eda30dd,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.39
+hkr,mappings\tftp\default\da5843fc053ad1e74042722b6b9ba9a343cba294f0cbec24636c846a0eda30dd,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\korea\tta\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.40 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\non_volt\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\7fd3cff8f0975dc5ed2295f092ba8abc1105eb98fa117465a7b39e7b7e769e13,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.40
+hkr,mappings\tftp\default\7fd3cff8f0975dc5ed2295f092ba8abc1105eb98fa117465a7b39e7b7e769e13,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\non_volt\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.41 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\non_volt\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\1a5735db4099fd4c1b84943355e487e7d8d8eb164c10b89ff7a6656fbc4f4e88,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.41
+hkr,mappings\tftp\default\1a5735db4099fd4c1b84943355e487e7d8d8eb164c10b89ff7a6656fbc4f4e88,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\non_volt\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.42 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\firstnet\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\db65bbbabca3b0347495f643dc811caeca42860aef4f1d2f349fcc7e04accea8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.42
+hkr,mappings\tftp\default\db65bbbabca3b0347495f643dc811caeca42860aef4f1d2f349fcc7e04accea8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\firstnet\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.43 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\firstnet\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\1882cf20f5286b735d60d9095ddcaad285bae2aaac7893c62a603f8140579d08,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.43
+hkr,mappings\tftp\default\1882cf20f5286b735d60d9095ddcaad285bae2aaac7893c62a603f8140579d08,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\firstnet\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.44 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\non_volt\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\4e86b83493cf6d8b4d94a31433d0dcdc9968838c0212574b726418dea3d30d33,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.44
+hkr,mappings\tftp\default\4e86b83493cf6d8b4d94a31433d0dcdc9968838c0212574b726418dea3d30d33,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\non_volt\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.45 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\non_volt\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e3a1c5a0b49465990dd7262ed81113584763f3559096e15809c2b9b624b93494,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.45
+hkr,mappings\tftp\default\e3a1c5a0b49465990dd7262ed81113584763f3559096e15809c2b9b624b93494,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\non_volt\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.46 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\volte\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\ca55891191896b7974426ef301213c462be005ebe92e8b34778a62b525da5df5,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.46
+hkr,mappings\tftp\default\ca55891191896b7974426ef301213c462be005ebe92e8b34778a62b525da5df5,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\volte\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.47 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\volte\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\8f747714449b7393aa8779f2919f64e95778f2ac4dcd58ad78733611fd88c871,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.47
+hkr,mappings\tftp\default\8f747714449b7393aa8779f2919f64e95778f2ac4dcd58ad78733611fd88c871,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\att\volte\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.48 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f4708c487b1a3f2d8e5af177cd6fa74c8f0ca28120d85dfb6ee90cb6bd4764cf,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.48
+hkr,mappings\tftp\default\f4708c487b1a3f2d8e5af177cd6fa74c8f0ca28120d85dfb6ee90cb6bd4764cf,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.49 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\094154506c9b2abccbb4a3026d94bd6b96657bf8ed25e01b06172fc543982bb1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.49
+hkr,mappings\tftp\default\094154506c9b2abccbb4a3026d94bd6b96657bf8ed25e01b06172fc543982bb1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.50 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\vowifi\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\c5e223ccab88d08e33ec01ff417768d67027c024955caaa787b1347e6d044b10,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.50
+hkr,mappings\tftp\default\c5e223ccab88d08e33ec01ff417768d67027c024955caaa787b1347e6d044b10,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\vowifi\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.51 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\vowifi\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\fde8f4036f42efb11b6b2a468575365d4bcd5e58488c585eb9e1d7cc25d20198,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.51
+hkr,mappings\tftp\default\fde8f4036f42efb11b6b2a468575365d4bcd5e58488c585eb9e1d7cc25d20198,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\sprint\vowifi\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.52 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\tmo\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\887d20769823968a1e33d6d4688b11112600ffce1fc92b853c176b32faf52d68,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.52
+hkr,mappings\tftp\default\887d20769823968a1e33d6d4688b11112600ffce1fc92b853c176b32faf52d68,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\tmo\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.53 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\tmo\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\9a3c621412218e58d842f78241dfe0e33907f2fe0be096610e64ef150f8dcf32,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.53
+hkr,mappings\tftp\default\9a3c621412218e58d842f78241dfe0e33907f2fe0be096610e64ef150f8dcf32,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\tmo\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.54 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\uscc\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\2caa9de1f193aa4c25dfdb53adf3f46431db7b1d6432db11b086af320c15f5c2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.54
+hkr,mappings\tftp\default\2caa9de1f193aa4c25dfdb53adf3f46431db7b1d6432db11b086af320c15f5c2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\uscc\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.55 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\uscc\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\cf6db10a999d9bd93e446daf06e211b437e567834be00a6b9093a65b8a39aaba,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.55
+hkr,mappings\tftp\default\cf6db10a999d9bd93e446daf06e211b437e567834be00a6b9093a65b8a39aaba,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\uscc\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.56 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\cdmaless\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\1c15b2c53bd4d95dc2119523a6d3c71854df29e0ca4837dc445de46e7402ab4d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.56
+hkr,mappings\tftp\default\1c15b2c53bd4d95dc2119523a6d3c71854df29e0ca4837dc445de46e7402ab4d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\cdmaless\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.57 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\cdmaless\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\1fd14eae53bba0f6bc0ce30de8c2a7ec63fd666a5f752db994d3a7753e307162,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.57
+hkr,mappings\tftp\default\1fd14eae53bba0f6bc0ce30de8c2a7ec63fd666a5f752db994d3a7753e307162,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\cdmaless\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.58 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\hvolte\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f77cd00a9a93c00c96cc7feb6110788d4283c2334afa6cb1afc5ff318ae1b7f6,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.58
+hkr,mappings\tftp\default\f77cd00a9a93c00c96cc7feb6110788d4283c2334afa6cb1afc5ff318ae1b7f6,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\hvolte\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.59 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\hvolte\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\cd1054fb3dc8a2e779133c101ad38de13d25ebd8d1a4ad5998109d00b3ead5c1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.59
+hkr,mappings\tftp\default\cd1054fb3dc8a2e779133c101ad38de13d25ebd8d1a4ad5998109d00b3ead5c1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\hvolte\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.60 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\imsless\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\d7c528300a3c33953f893a5973f6c866b4afc432b16f1baacff355c06cfa60c5,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.60
+hkr,mappings\tftp\default\d7c528300a3c33953f893a5973f6c866b4afc432b16f1baacff355c06cfa60c5,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\imsless\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.61 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\imsless\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\25f405bd52281b05f41202ff67471379a2d47691790ab0f417703dfd609cc33b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.61
+hkr,mappings\tftp\default\25f405bd52281b05f41202ff67471379a2d47691790ab0f417703dfd609cc33b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\verizon\imsless\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.62 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\beeline\gen_3gpp\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\3a76df3df171fd81c70f1a0e15aaa4795cb086ef5a1dfc32bbf6ee32cb013f7a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.62
+hkr,mappings\tftp\default\3a76df3df171fd81c70f1a0e15aaa4795cb086ef5a1dfc32bbf6ee32cb013f7a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\beeline\gen_3gpp\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.63 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\beeline\gen_3gpp\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\357b94b5ed133507051ccba3886ba71e3f0b01470ddc75cf1f9ed889db307405,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.63
+hkr,mappings\tftp\default\357b94b5ed133507051ccba3886ba71e3f0b01470ddc75cf1f9ed889db307405,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\beeline\gen_3gpp\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.64 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sa\brazil\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\8b22e5e99696e918797a5ee8ce2b664fe2f1f824ea9467977066c166251fd0b2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.64
+hkr,mappings\tftp\default\8b22e5e99696e918797a5ee8ce2b664fe2f1f824ea9467977066c166251fd0b2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sa\brazil\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.65 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sa\brazil\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\0a7f311a12dffc4784d7d5f8dadc705320e0a2cfad368a53b873b43a2dbe6fba,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.65
+hkr,mappings\tftp\default\0a7f311a12dffc4784d7d5f8dadc705320e0a2cfad368a53b873b43a2dbe6fba,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sa\brazil\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.66 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\apt\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\db93f30a831f23d0e4631afdedc782bdcf9a818477094cf906a7dca5f0e35d3b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.66
+hkr,mappings\tftp\default\db93f30a831f23d0e4631afdedc782bdcf9a818477094cf906a7dca5f0e35d3b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\apt\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.67 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\apt\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\3146fa29478f194e8093f6f9a345dee3364994b7c119f2ed115d326aa7c84bf8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.67
+hkr,mappings\tftp\default\3146fa29478f194e8093f6f9a345dee3364994b7c119f2ed115d326aa7c84bf8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\apt\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.68 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\fareasto\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\e8ad58ca65e4862d741a1dd0e00c476cbfa140f58afaf63edcbfa20eb9e40e05,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.68
+hkr,mappings\tftp\default\e8ad58ca65e4862d741a1dd0e00c476cbfa140f58afaf63edcbfa20eb9e40e05,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\fareasto\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.69 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\fareasto\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\2fc02efa69a0dc7e46000b01c753d4dc0a58b4882f5f21518660795dda2a6804,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.69
+hkr,mappings\tftp\default\2fc02efa69a0dc7e46000b01c753d4dc0a58b4882f5f21518660795dda2a6804,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\fareasto\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.70 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\1a60b1e70b606f40e719d50e1cb5b9ed3e5f10434f98c263591d6e2f835fd518,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.70
+hkr,mappings\tftp\default\1a60b1e70b606f40e719d50e1cb5b9ed3e5f10434f98c263591d6e2f835fd518,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.71 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\5b47ecb87d89f029e774d4b8efb01ebdf64bea8c55a529e418601194d42c1ab4,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.71
+hkr,mappings\tftp\default\5b47ecb87d89f029e774d4b8efb01ebdf64bea8c55a529e418601194d42c1ab4,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.72 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tm\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\369fecb3861d81a2381c553fc972941b2ab88a60ae0a83c66f738544035b2ec8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.72
+hkr,mappings\tftp\default\369fecb3861d81a2381c553fc972941b2ab88a60ae0a83c66f738544035b2ec8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tm\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.73 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tm\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\5d64e255a1aed1a60516b675d9789b59ad182a152246cf9c7d84269e0b4a64da,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.73
+hkr,mappings\tftp\default\5d64e255a1aed1a60516b675d9789b59ad182a152246cf9c7d84269e0b4a64da,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tm\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.74 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ytl\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\22d3f8768b9787945e0d4531aa2c8b82270cf0af711a337b1bd69796e357ea00,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.74
+hkr,mappings\tftp\default\22d3f8768b9787945e0d4531aa2c8b82270cf0af711a337b1bd69796e357ea00,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ytl\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.75 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ytl\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\8b77fb24524c1f70e868b408b8391282df76de3595f4b08da0bbdbe048f9db4f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.75
+hkr,mappings\tftp\default\8b77fb24524c1f70e868b408b8391282df76de3595f4b08da0bbdbe048f9db4f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ytl\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.76 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\cellc\commerci\safrica\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9e4c65ec4967313b437ea75fa925a2bfe0a43d7e720e569be81b323da6acd87b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.76
+hkr,mappings\tftp\default\9e4c65ec4967313b437ea75fa925a2bfe0a43d7e720e569be81b323da6acd87b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\cellc\commerci\safrica\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.77 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\cellc\commerci\safrica\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\b2ca59ba4f0e8ed9e4dd4d05c468a76238cb8e55fdbb48a81059d661371a249b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.77
+hkr,mappings\tftp\default\b2ca59ba4f0e8ed9e4dd4d05c468a76238cb8e55fdbb48a81059d661371a249b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\cellc\commerci\safrica\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.78 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\moroccot\commerci\ma\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\599ad2dec9c1f50434945fa43f0142f22ce88ac5db4c0e7afa3623754167e63f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.78
+hkr,mappings\tftp\default\599ad2dec9c1f50434945fa43f0142f22ce88ac5db4c0e7afa3623754167e63f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\moroccot\commerci\ma\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.79 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\moroccot\commerci\ma\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\619a5c4c8ff9477f72758e630354eb5cb4066bb987145e7c97ae3bad150b5b33,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.79
+hkr,mappings\tftp\default\619a5c4c8ff9477f72758e630354eb5cb4066bb987145e7c97ae3bad150b5b33,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\af\moroccot\commerci\ma\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.80 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\optus\commerci\au\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\8c95298b5aa97c63fbe0b1b011f33fad44dbc1aa2dc947cdee53ce3a09ba976a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.80
+hkr,mappings\tftp\default\8c95298b5aa97c63fbe0b1b011f33fad44dbc1aa2dc947cdee53ce3a09ba976a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\optus\commerci\au\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.81 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\optus\commerci\au\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\4bf74a0129d7ea532daf015a7fbe0f1496e62da595fc9f9e6fe33fe7fdfebf1b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.81
+hkr,mappings\tftp\default\4bf74a0129d7ea532daf015a7fbe0f1496e62da595fc9f9e6fe33fe7fdfebf1b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\aunz\optus\commerci\au\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.82 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\commerci\volte_op\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\2bdfc376b3cc287d7aa2bff166ab66a467ec5de4541f0d4562fcd41e13d6c45b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.82
+hkr,mappings\tftp\default\2bdfc376b3cc287d7aa2bff166ab66a467ec5de4541f0d4562fcd41e13d6c45b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\commerci\volte_op\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.83 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\commerci\volte_op\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\fe1fd2c82e62f34ad2e72a083f2f85704a37a3e6d31462ea9a040202df10c572,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.83
+hkr,mappings\tftp\default\fe1fd2c82e62f34ad2e72a083f2f85704a37a3e6d31462ea9a040202df10c572,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\commerci\volte_op\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.84 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\agnss_lo\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9b1aa8ca1fe4103bf9b49aa441c668268ab4294d88229f933b2f996a9baf925f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.84
+hkr,mappings\tftp\default\9b1aa8ca1fe4103bf9b49aa441c668268ab4294d88229f933b2f996a9baf925f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\agnss_lo\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.85 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\agnss_lo\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\d64ef5113f129b08bbf3d478f3e0d6ab450291399531ee0fec32c7e7822dd4e9,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.85
+hkr,mappings\tftp\default\d64ef5113f129b08bbf3d478f3e0d6ab450291399531ee0fec32c7e7822dd4e9,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\agnss_lo\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.86 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\conf_vol\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\c36f71ef77ea1bde9bc389a065a1b014f17a27c3d98367aa97048598a3d5512c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.86
+hkr,mappings\tftp\default\c36f71ef77ea1bde9bc389a065a1b014f17a27c3d98367aa97048598a3d5512c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\conf_vol\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.87 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\conf_vol\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\61b0ee145c38743d7cfdc7a9dafdbcf53f2ddd08a52d875fd90dfe8064a9cefa,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.87
+hkr,mappings\tftp\default\61b0ee145c38743d7cfdc7a9dafdbcf53f2ddd08a52d875fd90dfe8064a9cefa,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\conf_vol\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.88 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\eps_only\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\295132068670d0ee5ba105d756da15d93e055befa51f69800b443c3a44915d4e,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.88
+hkr,mappings\tftp\default\295132068670d0ee5ba105d756da15d93e055befa51f69800b443c3a44915d4e,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\eps_only\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.89 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\eps_only\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\4bcc4cc971f408ee06908719d4057c65dd9071c52dbc185d924f06ada897ee38,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.89
+hkr,mappings\tftp\default\4bcc4cc971f408ee06908719d4057c65dd9071c52dbc185d924f06ada897ee38,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\eps_only\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.90 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\lpp_loct\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\1ec533c491765a303bd2e0a4c325ceb3bee3ce8c7366034c6431b41b6880e79f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.90
+hkr,mappings\tftp\default\1ec533c491765a303bd2e0a4c325ceb3bee3ce8c7366034c6431b41b6880e79f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\lpp_loct\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.91 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\lpp_loct\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c80ac6d76a78d59bea12c7f145f466ce2f7255276c02b403ad4920b4aefabbca,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.91
+hkr,mappings\tftp\default\c80ac6d76a78d59bea12c7f145f466ce2f7255276c02b403ad4920b4aefabbca,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\lpp_loct\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.92 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\nsiot_vo\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9174e37cd46904818f9f12bfde8e813ae08316499503d6045ed9527d6bae52b1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.92
+hkr,mappings\tftp\default\9174e37cd46904818f9f12bfde8e813ae08316499503d6045ed9527d6bae52b1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\nsiot_vo\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.93 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\nsiot_vo\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\7b593374c11c921592b3b665ef4635364e166b08c301d99598871ecea8571785,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.93
+hkr,mappings\tftp\default\7b593374c11c921592b3b665ef4635364e166b08c301d99598871ecea8571785,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\nsiot_vo\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.94 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\rrlp_loc\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\feed6ec87f3c79cfe28cb246c26e6b8a1f4abdf7e503a35085afc37ec0d35176,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.94
+hkr,mappings\tftp\default\feed6ec87f3c79cfe28cb246c26e6b8a1f4abdf7e503a35085afc37ec0d35176,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\rrlp_loc\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.95 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\rrlp_loc\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\ded52101604adfa098f0ad3d97f45e3f2edc30a2f361784b03d54fd27cbca8a7,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.95
+hkr,mappings\tftp\default\ded52101604adfa098f0ad3d97f45e3f2edc30a2f361784b03d54fd27cbca8a7,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\rrlp_loc\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.96 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\tgl_comb\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\4f5d6659d75ecce8a37bdf9e5b0e191c0fe888e2b0ba389881da7f291e8c1f0d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.96
+hkr,mappings\tftp\default\4f5d6659d75ecce8a37bdf9e5b0e191c0fe888e2b0ba389881da7f291e8c1f0d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\tgl_comb\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.97 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\tgl_comb\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\5737cb53869ab0740a8161fe4b03f41ceb740105919eae37beb86fe9a9a13469,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.97
+hkr,mappings\tftp\default\5737cb53869ab0740a8161fe4b03f41ceb740105919eae37beb86fe9a9a13469,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\tgl_comb\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.98 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\w_irat_c\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\dc0cbd2c38e5983fb77e1bd01e58340109bc81c2d3925d1388639f5f61baaba3,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.98
+hkr,mappings\tftp\default\dc0cbd2c38e5983fb77e1bd01e58340109bc81c2d3925d1388639f5f61baaba3,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\w_irat_c\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.99 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\w_irat_c\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e2296c101779d7f39b82aa79032b65cf47121fd72ac08eb548557838642f0e3b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.99
+hkr,mappings\tftp\default\e2296c101779d7f39b82aa79032b65cf47121fd72ac08eb548557838642f0e3b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cmcc\lab\w_irat_c\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.100 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\hvolte_o\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\8f0a286c6304831b70086c3a8cfd2998555e798769d338a3868e765d2ea17dd2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.100
+hkr,mappings\tftp\default\8f0a286c6304831b70086c3a8cfd2998555e798769d338a3868e765d2ea17dd2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\hvolte_o\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.101 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\hvolte_o\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c89f36770d9b74ffd229746646f4e83d734a39c950d0883c9cb462af8132d84c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.101
+hkr,mappings\tftp\default\c89f36770d9b74ffd229746646f4e83d734a39c950d0883c9cb462af8132d84c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\hvolte_o\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.102 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\openmkt\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\b96f4a1414ec2e2dfd543a75448781b35330f68172ef648ceb65645d0c289718,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.102
+hkr,mappings\tftp\default\b96f4a1414ec2e2dfd543a75448781b35330f68172ef648ceb65645d0c289718,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\openmkt\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.103 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\openmkt\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e7c7e34bcfa661efe3dd3c37d0c0b9aad635dc0d9afddfa12a5f9001fca5abe8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.103
+hkr,mappings\tftp\default\e7c7e34bcfa661efe3dd3c37d0c0b9aad635dc0d9afddfa12a5f9001fca5abe8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\openmkt\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.104 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\volte_op\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\88624724ef37e9b1eac0db90727ead9bf57485daed9bb1493c3e30fa403835a0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.104
+hkr,mappings\tftp\default\88624724ef37e9b1eac0db90727ead9bf57485daed9bb1493c3e30fa403835a0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\volte_op\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.105 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\volte_op\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\a46493b020ffc8f7823cc368b85a946098671769e03ce87bf5ed790ccf0b988c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.105
+hkr,mappings\tftp\default\a46493b020ffc8f7823cc368b85a946098671769e03ce87bf5ed790ccf0b988c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\commerci\volte_op\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.106 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\cta\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\efa0aac8728a4a562b546ce8c977a6fff6afb2421b9d84489cc0088b4271007d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.106
+hkr,mappings\tftp\default\efa0aac8728a4a562b546ce8c977a6fff6afb2421b9d84489cc0088b4271007d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\cta\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.107 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\cta\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\1548519e8a6d9086eaf38807f2db335d9551c6a05c913c6de34fc0efc12233c3,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.107
+hkr,mappings\tftp\default\1548519e8a6d9086eaf38807f2db335d9551c6a05c913c6de34fc0efc12233c3,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\cta\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.108 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\eps_only\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\e707dcd6f9f29602d170edeba7ab2bf5253b6538d7abbd6abbbf1754b56b4f96,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.108
+hkr,mappings\tftp\default\e707dcd6f9f29602d170edeba7ab2bf5253b6538d7abbd6abbbf1754b56b4f96,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\eps_only\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.109 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\eps_only\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\447166eeb4d5994f54c96529ae4e437b82fc488b895f775bda0eebdc61f4b562,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.109
+hkr,mappings\tftp\default\447166eeb4d5994f54c96529ae4e437b82fc488b895f775bda0eebdc61f4b562,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\eps_only\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.110 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\noapn_vo\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\24e7dada0c2b7ea363fbddf73a6e066b144de636917cebcf3cd550f2fb59ca82,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.110
+hkr,mappings\tftp\default\24e7dada0c2b7ea363fbddf73a6e066b144de636917cebcf3cd550f2fb59ca82,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\noapn_vo\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.111 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\noapn_vo\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\487d4ffdda7a768744ccd996a6d3c3791195c1a2bbc17087ffe19a4ba7a21547,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.111
+hkr,mappings\tftp\default\487d4ffdda7a768744ccd996a6d3c3791195c1a2bbc17087ffe19a4ba7a21547,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\noapn_vo\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.112 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\387dfbc0d8148322d04445a985a29d0055a6fb01827f8094433684d0fca7a325,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.112
+hkr,mappings\tftp\default\387dfbc0d8148322d04445a985a29d0055a6fb01827f8094433684d0fca7a325,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.113 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\f41a1b5339320dfc8aa601265425857f7a7366a0fc7ddfff6699b51bf13763f8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.113
+hkr,mappings\tftp\default\f41a1b5339320dfc8aa601265425857f7a7366a0fc7ddfff6699b51bf13763f8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.114 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_eps\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\dffa538fae5539f670db0435259b720a313560ac85013e41ba981a7dfb04a6ab,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.114
+hkr,mappings\tftp\default\dffa538fae5539f670db0435259b720a313560ac85013e41ba981a7dfb04a6ab,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_eps\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.115 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_eps\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\97ad03502c09f7a21364b9b56015e7924495c1232119f492dd304326fb7d3b24,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.115
+hkr,mappings\tftp\default\97ad03502c09f7a21364b9b56015e7924495c1232119f492dd304326fb7d3b24,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_eps\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.116 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_no_\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9774cd21295e30fa567c98fe955cf533d2bda183547e409d7977a0f60f2c24ee,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.116
+hkr,mappings\tftp\default\9774cd21295e30fa567c98fe955cf533d2bda183547e409d7977a0f60f2c24ee,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_no_\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.117 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_no_\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\62d19f33bceb492b7814d636f8528a323ede8f83cfd1d2412fbac1baca524cb5,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.117
+hkr,mappings\tftp\default\62d19f33bceb492b7814d636f8528a323ede8f83cfd1d2412fbac1baca524cb5,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\test_no_\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.118 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\volte_co\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\47b9ce2aaded16b4fec7d5f6567db7066e36cd76f179dec53828fa295fe6100b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.118
+hkr,mappings\tftp\default\47b9ce2aaded16b4fec7d5f6567db7066e36cd76f179dec53828fa295fe6100b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\volte_co\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.119 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\volte_co\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\0df576b05b39cb0e3ffb6b5ce251490ad7fc4711d92e70df0962af9ff05d4dd2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.119
+hkr,mappings\tftp\default\0df576b05b39cb0e3ffb6b5ce251490ad7fc4711d92e70df0962af9ff05d4dd2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\ct\lab\volte_co\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.120 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\openmkt\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\c9e0581e86bd1160065b1e8350130f1b8aa0a4701c33a9797ba6092b1606e344,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.120
+hkr,mappings\tftp\default\c9e0581e86bd1160065b1e8350130f1b8aa0a4701c33a9797ba6092b1606e344,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\openmkt\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.121 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\openmkt\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\5e07b52ed73ec6c1c48e931c04df3bd2d288254403d0f11a221fd2e247779451,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.121
+hkr,mappings\tftp\default\5e07b52ed73ec6c1c48e931c04df3bd2d288254403d0f11a221fd2e247779451,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\openmkt\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.122 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\volte\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\b70657c17b57ef2eafadd0653f776be3d565088c183ab85f0c6f9e1ddfb833c3,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.122
+hkr,mappings\tftp\default\b70657c17b57ef2eafadd0653f776be3d565088c183ab85f0c6f9e1ddfb833c3,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\volte\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.123 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\volte\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\914bc44c0aa3189981814ac2b138b4b67d5d180b59548ccac1b2107ed51bac13,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.123
+hkr,mappings\tftp\default\914bc44c0aa3189981814ac2b138b4b67d5d180b59548ccac1b2107ed51bac13,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\commerci\volte\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.124 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\lab\test\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\d78489d90aaa08a5b11cafb3f7e9efa930ce760720d1f60b2c454026c7f8deb9,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.124
+hkr,mappings\tftp\default\d78489d90aaa08a5b11cafb3f7e9efa930ce760720d1f60b2c454026c7f8deb9,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\lab\test\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.125 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\lab\test\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\ce8e21d76ac9edf9cb83d734a44b4b92115110032fc2be5def89fa4f396b8132,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.125
+hkr,mappings\tftp\default\ce8e21d76ac9edf9cb83d734a44b4b92115110032fc2be5def89fa4f396b8132,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\china\cu\lab\test\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.126 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\bouygues\commerci\france\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f32bc25acaa209467f3b4e137e514895c20ed1a972732d0b6a3f49715d6233d1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.126
+hkr,mappings\tftp\default\f32bc25acaa209467f3b4e137e514895c20ed1a972732d0b6a3f49715d6233d1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\bouygues\commerci\france\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.127 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\bouygues\commerci\france\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\d8d6b210f085e2571fa083c83ea477689c4598b1cb6641d893bb2bba263b4b27,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.127
+hkr,mappings\tftp\default\d8d6b210f085e2571fa083c83ea477689c4598b1cb6641d893bb2bba263b4b27,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\bouygues\commerci\france\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.128 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\austria\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\67341ca5ee0622ebe4c6c71cdc9c3ffed3c31066ac278f662246451f0ad84903,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.128
+hkr,mappings\tftp\default\67341ca5ee0622ebe4c6c71cdc9c3ffed3c31066ac278f662246451f0ad84903,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\austria\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.129 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\austria\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\ef8aa31a859d0b73df2cbcb7655892aaf5a1dfbc7b0b750641cd0e4f7b48c603,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.129
+hkr,mappings\tftp\default\ef8aa31a859d0b73df2cbcb7655892aaf5a1dfbc7b0b750641cd0e4f7b48c603,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\austria\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.130 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\croatia\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9be79290a88ec4b83a843d16545e50aa58ac7a351a7606e3f1629711d3df6883,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.130
+hkr,mappings\tftp\default\9be79290a88ec4b83a843d16545e50aa58ac7a351a7606e3f1629711d3df6883,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\croatia\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.131 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\croatia\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\9938f8d99c77a738541610d3e25d5acda4866c01da82423f7c2189e4452ff329,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.131
+hkr,mappings\tftp\default\9938f8d99c77a738541610d3e25d5acda4866c01da82423f7c2189e4452ff329,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\croatia\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.132 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\cz\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f423b9885297734a18ba64f5788e905a9510534086e07b033b413c401156e97c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.132
+hkr,mappings\tftp\default\f423b9885297734a18ba64f5788e905a9510534086e07b033b413c401156e97c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\cz\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.133 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\cz\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\56abbdc5fcfcf8219db3eca9bcbeeee54459e02ca4bb6a217144e97fcc944126,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.133
+hkr,mappings\tftp\default\56abbdc5fcfcf8219db3eca9bcbeeee54459e02ca4bb6a217144e97fcc944126,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\cz\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.134 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\greece\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\b8f54a0439c94eed6bbcf9ee5701c0c66e86183e34ab5cff804247391624967e,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.134
+hkr,mappings\tftp\default\b8f54a0439c94eed6bbcf9ee5701c0c66e86183e34ab5cff804247391624967e,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\greece\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.135 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\greece\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\152bc890b09d1d586a60c0df3dfbd895d83de98cf9ca6c4b7ca12efd35a56710,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.135
+hkr,mappings\tftp\default\152bc890b09d1d586a60c0df3dfbd895d83de98cf9ca6c4b7ca12efd35a56710,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\greece\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.136 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\hungary\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\686fb248dbaf9db4a41658e2289f92447c41549f3e065a678c6e5f7cd5211162,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.136
+hkr,mappings\tftp\default\686fb248dbaf9db4a41658e2289f92447c41549f3e065a678c6e5f7cd5211162,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\hungary\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.137 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\hungary\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\1c13fb3a80c2afff20f533c878581e5813ff7ef7d2af31ef949a9e01b99646e0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.137
+hkr,mappings\tftp\default\1c13fb3a80c2afff20f533c878581e5813ff7ef7d2af31ef949a9e01b99646e0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\hungary\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.138 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\nl\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\220ed02b058d3b2bc7bd87066ef07fd873d4ec3f8a8b3ceba7a1d1a13e77fe86,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.138
+hkr,mappings\tftp\default\220ed02b058d3b2bc7bd87066ef07fd873d4ec3f8a8b3ceba7a1d1a13e77fe86,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\nl\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.139 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\nl\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\b0788ac637a738ae5168f822c102987784f2637fa2f06c672f157fdfe611e275,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.139
+hkr,mappings\tftp\default\b0788ac637a738ae5168f822c102987784f2637fa2f06c672f157fdfe611e275,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\nl\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.140 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\pl\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\99861e96eab5f59a86f820fa5781860780ebf0446d65076d57575c48dc41ce00,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.140
+hkr,mappings\tftp\default\99861e96eab5f59a86f820fa5781860780ebf0446d65076d57575c48dc41ce00,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\pl\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.141 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\pl\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\3754162e89b31c66f5ac55ef72d1e14dc55e1470998fcb4e402db58911696a97,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.141
+hkr,mappings\tftp\default\3754162e89b31c66f5ac55ef72d1e14dc55e1470998fcb4e402db58911696a97,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\pl\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.142 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\slovakia\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\5a6ed0c2f9f66be544c035b73f8996e3cbe18f4301afbd6917d264136e6f214c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.142
+hkr,mappings\tftp\default\5a6ed0c2f9f66be544c035b73f8996e3cbe18f4301afbd6917d264136e6f214c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\slovakia\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.143 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\slovakia\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\ec838de96f00ff4a6a805639b6b96d01e1fe6a2f494b88a9f1638c509309a730,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.143
+hkr,mappings\tftp\default\ec838de96f00ff4a6a805639b6b96d01e1fe6a2f494b88a9f1638c509309a730,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\commerci\slovakia\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.144 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\non_volt\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\7fd76fddbf2a0e4a71b00a1cede623fb395988b79c80f3c878268be878492139,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.144
+hkr,mappings\tftp\default\7fd76fddbf2a0e4a71b00a1cede623fb395988b79c80f3c878268be878492139,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\non_volt\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.145 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\non_volt\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\507a3ff289594d3dc2c514677f102d124bf2e880e6291d75fc07219cd8b89aaa,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.145
+hkr,mappings\tftp\default\507a3ff289594d3dc2c514677f102d124bf2e880e6291d75fc07219cd8b89aaa,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\non_volt\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.146 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\volte\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\3254fb1c29cafda79aabdd1b701a32078ce9f22aa293f30384f983682275925f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.146
+hkr,mappings\tftp\default\3254fb1c29cafda79aabdd1b701a32078ce9f22aa293f30384f983682275925f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\volte\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.147 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\volte\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\9931dc4b3dc2e798a9877212324b2fca675ec2e526a0b7882d910d1ee152f964,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.147
+hkr,mappings\tftp\default\9931dc4b3dc2e798a9877212324b2fca675ec2e526a0b7882d910d1ee152f964,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\dt\volte\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.148 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\elisa\commerci\fi\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\8d39447f0f99c967f3d22c6708b20a23ae8a1ad78774f2841764901ba8888280,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.148
+hkr,mappings\tftp\default\8d39447f0f99c967f3d22c6708b20a23ae8a1ad78774f2841764901ba8888280,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\elisa\commerci\fi\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.149 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\elisa\commerci\fi\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\a40770c88864e7860b02c258df0f1f8b7e55e36a6e5d57a8bc4dab8e264c907c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.149
+hkr,mappings\tftp\default\a40770c88864e7860b02c258df0f1f8b7e55e36a6e5d57a8bc4dab8e264c907c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\elisa\commerci\fi\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.150 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\austria\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\0188b8f3820a3371f071ba189d6eb298a1e7ceb26c1e7205060c8e607b1618c8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.150
+hkr,mappings\tftp\default\0188b8f3820a3371f071ba189d6eb298a1e7ceb26c1e7205060c8e607b1618c8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\austria\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.151 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\austria\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\0a6e7caf8f9a471c6907c2de3635baad1c9238c0371f9efe512d15f2efc21154,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.151
+hkr,mappings\tftp\default\0a6e7caf8f9a471c6907c2de3635baad1c9238c0371f9efe512d15f2efc21154,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\austria\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.152 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\denmark\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\01173ee4b927614b6050233202c584db8c5c0547f8849510e293c5f295331baa,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.152
+hkr,mappings\tftp\default\01173ee4b927614b6050233202c584db8c5c0547f8849510e293c5f295331baa,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\denmark\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.153 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\denmark\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c9cbdc996736b427020a29c3bd63bc685c30e6b5f9a57616a83f3952a5bd3eb2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.153
+hkr,mappings\tftp\default\c9cbdc996736b427020a29c3bd63bc685c30e6b5f9a57616a83f3952a5bd3eb2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\denmark\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.154 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\italy\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\24d88174e022229e4cb0326a23544f23d6ff8550616d59e2d7fed88ba0bd1a08,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.154
+hkr,mappings\tftp\default\24d88174e022229e4cb0326a23544f23d6ff8550616d59e2d7fed88ba0bd1a08,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\italy\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.155 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\italy\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\4e9a591ad274517226aec0f479ff8dffd263b72c433d6b2d42faf025fbab3416,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.155
+hkr,mappings\tftp\default\4e9a591ad274517226aec0f479ff8dffd263b72c433d6b2d42faf025fbab3416,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\italy\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.156 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\se\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\282554489c2ed21f4a9d9ab376fbfb0a047513ca14145c53f6e9123df1fed24c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.156
+hkr,mappings\tftp\default\282554489c2ed21f4a9d9ab376fbfb0a047513ca14145c53f6e9123df1fed24c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\se\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.157 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\se\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\af58ba7e9d40eed48ee46c7bb57efd31a2614613762b7958d520c01254f230e9,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.157
+hkr,mappings\tftp\default\af58ba7e9d40eed48ee46c7bb57efd31a2614613762b7958d520c01254f230e9,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\se\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.158 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\uk\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\23f71abbcadb4691578be2102bb92d67e61fb4baa1bcc84479ab9595902f4df0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.158
+hkr,mappings\tftp\default\23f71abbcadb4691578be2102bb92d67e61fb4baa1bcc84479ab9595902f4df0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\uk\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.159 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\uk\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\82048f129954fc3eee8f6d800502d5f0dad8ca3217d075bcfcc548bb08a07859,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.159
+hkr,mappings\tftp\default\82048f129954fc3eee8f6d800502d5f0dad8ca3217d075bcfcc548bb08a07859,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\h3g\commerci\uk\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.160 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\france\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\946e642d2004e9a2e8e885fbdc3c92679a0268286f2888aa18ee0b644f0fd278,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.160
+hkr,mappings\tftp\default\946e642d2004e9a2e8e885fbdc3c92679a0268286f2888aa18ee0b644f0fd278,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\france\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.161 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\france\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\135f490d11d0c894b5d72547cfc66a15829194538526bcec63fd2378f3bef421,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.161
+hkr,mappings\tftp\default\135f490d11d0c894b5d72547cfc66a15829194538526bcec63fd2378f3bef421,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\france\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.162 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\group_no\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\8c27a63acc64bbec562ce27cc47b0d3ce799ff8978b4fcc963e42f996bc60ff1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.162
+hkr,mappings\tftp\default\8c27a63acc64bbec562ce27cc47b0d3ce799ff8978b4fcc963e42f996bc60ff1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\group_no\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.163 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\group_no\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\656de7f400d36849f98b83c13d41b080977bf0e642d4abe1e063f436dd10543e,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.163
+hkr,mappings\tftp\default\656de7f400d36849f98b83c13d41b080977bf0e642d4abe1e063f436dd10543e,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\group_no\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.164 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\poland\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\7c7bd03a4ee1bbf1d10e1504f9d36c412c9527f7a3b26da500133c558e390043,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.164
+hkr,mappings\tftp\default\7c7bd03a4ee1bbf1d10e1504f9d36c412c9527f7a3b26da500133c558e390043,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\poland\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.165 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\poland\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\6b113236ce5cef1d2b1e83553043041dabecd9a4891d02bc5ce2b5cc9159210b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.165
+hkr,mappings\tftp\default\6b113236ce5cef1d2b1e83553043041dabecd9a4891d02bc5ce2b5cc9159210b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\poland\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.166 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\romania\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\d863c07a39b2b72a3e5a427233f63a5c8453320a90ef2f6955ef2aa41cff5593,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.166
+hkr,mappings\tftp\default\d863c07a39b2b72a3e5a427233f63a5c8453320a90ef2f6955ef2aa41cff5593,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\romania\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.167 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\romania\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\abb32c0690f5f3521d9038bf291638f15ccdc2f820d7a06260e523e0bd532583,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.167
+hkr,mappings\tftp\default\abb32c0690f5f3521d9038bf291638f15ccdc2f820d7a06260e523e0bd532583,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\romania\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.168 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\slovakia\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\fe8c9dc5e41f20ca676fafd247595f12822c78fe3d63483ca076698355aa68e8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.168
+hkr,mappings\tftp\default\fe8c9dc5e41f20ca676fafd247595f12822c78fe3d63483ca076698355aa68e8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\slovakia\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.169 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\slovakia\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\b166ca571f6604d1098e0e0a6555e7bf23ca2606d338b26f8cd683a0cc731229,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.169
+hkr,mappings\tftp\default\b166ca571f6604d1098e0e0a6555e7bf23ca2606d338b26f8cd683a0cc731229,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\slovakia\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.170 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\spain\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\936e06a0e4bbabc5e1be431904e98f011759583e6f9f549ee6e0d78db7081c3b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.170
+hkr,mappings\tftp\default\936e06a0e4bbabc5e1be431904e98f011759583e6f9f549ee6e0d78db7081c3b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\spain\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.171 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\spain\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\128261740df08bdd779b90f058ee8357bc0eac38993b6e8e7586532b918a6ec0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.171
+hkr,mappings\tftp\default\128261740df08bdd779b90f058ee8357bc0eac38993b6e8e7586532b918a6ec0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\orange\commerci\spain\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.172 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\sfr\commerci\fr\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\130985c39d79db78416719b2f89f9875ae7200268c9ea756ade56ae7b564b415,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.172
+hkr,mappings\tftp\default\130985c39d79db78416719b2f89f9875ae7200268c9ea756ade56ae7b564b415,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\sfr\commerci\fr\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.173 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\sfr\commerci\fr\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\16c25dd56e0460d172783c5e53665c392d82bd3882104f426370c8e120883b08,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.173
+hkr,mappings\tftp\default\16c25dd56e0460d172783c5e53665c392d82bd3882104f426370c8e120883b08,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\sfr\commerci\fr\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.174 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\swisscom\commerci\swiss\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9185fff61d2bf78eee659ac03d1e67be5609a05bb5e48a6b147dcf183b1393f9,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.174
+hkr,mappings\tftp\default\9185fff61d2bf78eee659ac03d1e67be5609a05bb5e48a6b147dcf183b1393f9,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\swisscom\commerci\swiss\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.175 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\swisscom\commerci\swiss\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\1e302b40f77195b3e896175c6c8f2e2ce40651f454c484bb752ca6d804fbbe19,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.175
+hkr,mappings\tftp\default\1e302b40f77195b3e896175c6c8f2e2ce40651f454c484bb752ca6d804fbbe19,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\swisscom\commerci\swiss\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.176 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tdc\commerci\denmark\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\bc5f57ed08906631d50df3fc3a186a3b70375edf28232613fa90b0490131f4f4,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.176
+hkr,mappings\tftp\default\bc5f57ed08906631d50df3fc3a186a3b70375edf28232613fa90b0490131f4f4,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tdc\commerci\denmark\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.177 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tdc\commerci\denmark\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\8a94c4d4f733be9e70b85385175d68ad5c6324106cdb9e5e53e4a3895284e33c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.177
+hkr,mappings\tftp\default\8a94c4d4f733be9e70b85385175d68ad5c6324106cdb9e5e53e4a3895284e33c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tdc\commerci\denmark\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.178 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\nl\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\b840a77376f867ed6b080721686c2005e9f295283019cb954b31e4ca88fb3260,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.178
+hkr,mappings\tftp\default\b840a77376f867ed6b080721686c2005e9f295283019cb954b31e4ca88fb3260,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\nl\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.179 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\nl\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\670db950a63a0c22031571a498982d6a4ce24a53a7d3bdbbefd00d0aae924807,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.179
+hkr,mappings\tftp\default\670db950a63a0c22031571a498982d6a4ce24a53a7d3bdbbefd00d0aae924807,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\nl\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.180 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\sweden\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\ff02b7b505f4b58673d9120467ae5d3f26500ff95ae478ee6a55ecd9efc996c0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.180
+hkr,mappings\tftp\default\ff02b7b505f4b58673d9120467ae5d3f26500ff95ae478ee6a55ecd9efc996c0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\sweden\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.181 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\sweden\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\5996cc62e3d1409198f1bf793159b48b8a4a7b6e8cab2d7f2e0d8603ba16e315,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.181
+hkr,mappings\tftp\default\5996cc62e3d1409198f1bf793159b48b8a4a7b6e8cab2d7f2e0d8603ba16e315,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tele2\commerci\sweden\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.182 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\de\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\ff1e31c7ffeb88e8edc9c03aef38892c903a380833309d6dd231ac7b58192cf2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.182
+hkr,mappings\tftp\default\ff1e31c7ffeb88e8edc9c03aef38892c903a380833309d6dd231ac7b58192cf2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\de\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.183 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\de\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\4b998e65f2ac70d49568ef0b13adf81830dbd993bbbe409503b8ccd763c29a8a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.183
+hkr,mappings\tftp\default\4b998e65f2ac70d49568ef0b13adf81830dbd993bbbe409503b8ccd763c29a8a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\de\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.184 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\spain\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\4f19994761bc9d5b9ae1ba89e42843bf04ccb88a1f45c74289703fcc760837d2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.184
+hkr,mappings\tftp\default\4f19994761bc9d5b9ae1ba89e42843bf04ccb88a1f45c74289703fcc760837d2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\spain\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.185 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\spain\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\a759a00c23ce90eb3bb34b4931cb08921016b94de69fc5e2fde90b65d856c96b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.185
+hkr,mappings\tftp\default\a759a00c23ce90eb3bb34b4931cb08921016b94de69fc5e2fde90b65d856c96b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\spain\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.186 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\uk\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\eaf90f78ab0c1f87ed0bed06a7fefc8ad22ceb764b059aa66dd951f4a2295bb3,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.186
+hkr,mappings\tftp\default\eaf90f78ab0c1f87ed0bed06a7fefc8ad22ceb764b059aa66dd951f4a2295bb3,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\uk\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.187 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\uk\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\f0a2c7410d725d7d76ca8c43ca8c638321095fa45ed42922840e4724fd1a37be,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.187
+hkr,mappings\tftp\default\f0a2c7410d725d7d76ca8c43ca8c638321095fa45ed42922840e4724fd1a37be,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telefoni\commerci\uk\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.188 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\denmark\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f0579712d1fe64223f8e2678812ca78ab6d4ba2ebc422d19c871767fe6c02df0,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.188
+hkr,mappings\tftp\default\f0579712d1fe64223f8e2678812ca78ab6d4ba2ebc422d19c871767fe6c02df0,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\denmark\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.189 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\denmark\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c83554f6bf9f619bd4d5e19847541bb10b1750d718dd8ef91ca8293a7e0b5214,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.189
+hkr,mappings\tftp\default\c83554f6bf9f619bd4d5e19847541bb10b1750d718dd8ef91ca8293a7e0b5214,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\denmark\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.190 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\norway\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\b9d17b17e2b368094ddcb6eb285f9114f95b953e372e587aaf73e98c62da368c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.190
+hkr,mappings\tftp\default\b9d17b17e2b368094ddcb6eb285f9114f95b953e372e587aaf73e98c62da368c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\norway\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.191 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\norway\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\69610047b3353bc301b1da2497e6a3675b0fe8edc5647ea60badd505f9c5e0e8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.191
+hkr,mappings\tftp\default\69610047b3353bc301b1da2497e6a3675b0fe8edc5647ea60badd505f9c5e0e8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telenor\commerci\norway\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.192 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\norway\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\168e417e6ccc778aca3375b41bfb3bb50d702ff96dde5582f70eb2c9bfa2a535,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.192
+hkr,mappings\tftp\default\168e417e6ccc778aca3375b41bfb3bb50d702ff96dde5582f70eb2c9bfa2a535,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\norway\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.193 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\norway\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\05769e6d5911daa7ccb6157517937d3168204938204a3c38f8f14b0c6ad5546c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.193
+hkr,mappings\tftp\default\05769e6d5911daa7ccb6157517937d3168204938204a3c38f8f14b0c6ad5546c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\norway\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.194 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\sweden\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\b393b8af3c29f2e4d3add74d917afc303759dae44d7b199674f10ed73b805933,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.194
+hkr,mappings\tftp\default\b393b8af3c29f2e4d3add74d917afc303759dae44d7b199674f10ed73b805933,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\sweden\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.195 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\sweden\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c82fe91947cec0e66953189d40f5f991e6a1c9e48a597936b13b14e2195387b1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.195
+hkr,mappings\tftp\default\c82fe91947cec0e66953189d40f5f991e6a1c9e48a597936b13b14e2195387b1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\telia\commerci\sweden\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.196 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tim\commerci\italy\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\177fa4605b13119495f2a954a272ac62602f977187b977d7536fadb2707a0118,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.196
+hkr,mappings\tftp\default\177fa4605b13119495f2a954a272ac62602f977187b977d7536fadb2707a0118,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tim\commerci\italy\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.197 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tim\commerci\italy\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c00c7bd981b6f9bbf46bed5e05b4899f8211031c1654067dfa8018dfc73bf9cd,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.197
+hkr,mappings\tftp\default\c00c7bd981b6f9bbf46bed5e05b4899f8211031c1654067dfa8018dfc73bf9cd,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\tim\commerci\italy\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.198 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\hungary\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\8971ce523d36f5d84f864ae9d9a0edaa4c9fed4caacc3e597a9f324d4f54b433,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.198
+hkr,mappings\tftp\default\8971ce523d36f5d84f864ae9d9a0edaa4c9fed4caacc3e597a9f324d4f54b433,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\hungary\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.199 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\hungary\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\281b82a2699826c1496d070bb6f2054dd4330fe8613775f80682f15f1819353f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.199
+hkr,mappings\tftp\default\281b82a2699826c1496d070bb6f2054dd4330fe8613775f80682f15f1819353f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\hungary\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.200 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\ireland\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\4643cbef5cbfc08b9f85e9da8486f4c40314341a9b4fc73c3e06c841153b56ea,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.200
+hkr,mappings\tftp\default\4643cbef5cbfc08b9f85e9da8486f4c40314341a9b4fc73c3e06c841153b56ea,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\ireland\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.201 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\ireland\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c425344433c7159b5d4a6fab8f5b9267ecca89cbcaf2d335b35e00cad3cf464a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.201
+hkr,mappings\tftp\default\c425344433c7159b5d4a6fab8f5b9267ecca89cbcaf2d335b35e00cad3cf464a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\commerci\ireland\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.202 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\cz\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\0bd59859d42e3b120aa42b873e9e40c1474635491840832dad34166f0d76c8b2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.202
+hkr,mappings\tftp\default\0bd59859d42e3b120aa42b873e9e40c1474635491840832dad34166f0d76c8b2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\cz\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.203 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\cz\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\722daca8ff65dd7da33ff6e1285591008190acfa7042740d1e01d79b6f9a9a83,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.203
+hkr,mappings\tftp\default\722daca8ff65dd7da33ff6e1285591008190acfa7042740d1e01d79b6f9a9a83,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\cz\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.204 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\germany\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\c631b75391c1844c90e99e0934c9771cdd2389fbfd8596aa05bf2d4134937c8f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.204
+hkr,mappings\tftp\default\c631b75391c1844c90e99e0934c9771cdd2389fbfd8596aa05bf2d4134937c8f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\germany\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.205 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\germany\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e2aeb568e12474b598481c8bf04189e629991629e5b70ab0ab5f3db5d708d023,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.205
+hkr,mappings\tftp\default\e2aeb568e12474b598481c8bf04189e629991629e5b70ab0ab5f3db5d708d023,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\germany\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.206 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\italy\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\94c9996f8f3b3823ff1c6f4e430ab1647ef6e3cfa5a436c45a3c64d7decff985,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.206
+hkr,mappings\tftp\default\94c9996f8f3b3823ff1c6f4e430ab1647ef6e3cfa5a436c45a3c64d7decff985,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\italy\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.207 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\italy\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\03cd35adb651b6f10d75d96e7baa6e6b9138947149b20e3179d3a1137097b870,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.207
+hkr,mappings\tftp\default\03cd35adb651b6f10d75d96e7baa6e6b9138947149b20e3179d3a1137097b870,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\italy\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.208 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\netherla\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\446eaf11cc7291a04bd02e17810f7374f74b942918de5daf167f86a0cddf8e06,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.208
+hkr,mappings\tftp\default\446eaf11cc7291a04bd02e17810f7374f74b942918de5daf167f86a0cddf8e06,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\netherla\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.209 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\netherla\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\aaca1c5d459febeddba890857251e6f23a51045077d254f790363cfd7eb87b90,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.209
+hkr,mappings\tftp\default\aaca1c5d459febeddba890857251e6f23a51045077d254f790363cfd7eb87b90,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\netherla\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.210 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\portugal\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\e955e347191209b718855cd72626ec20f99a42e6f6362a3bc2e933aa3bc9a2a2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.210
+hkr,mappings\tftp\default\e955e347191209b718855cd72626ec20f99a42e6f6362a3bc2e933aa3bc9a2a2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\portugal\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.211 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\portugal\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\9d5cd4b22b85d240277d214fc0f0a5b838be0b976b6ea0820cc0994661f8216f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.211
+hkr,mappings\tftp\default\9d5cd4b22b85d240277d214fc0f0a5b838be0b976b6ea0820cc0994661f8216f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\portugal\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.212 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\safrica\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\739ffb96d844f6eb868249cf20b58f60a94643091a2fbaec831381e7f385498d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.212
+hkr,mappings\tftp\default\739ffb96d844f6eb868249cf20b58f60a94643091a2fbaec831381e7f385498d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\safrica\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.213 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\safrica\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\85cedfb29a3011cce4255a35d7718dc9a5ef9bc243de53111810d7af9c45dc61,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.213
+hkr,mappings\tftp\default\85cedfb29a3011cce4255a35d7718dc9a5ef9bc243de53111810d7af9c45dc61,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\safrica\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.214 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\spain\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\31c75b7551c4e95be9433aab74138cb1075d9b906dc66a1608bc6d9de8dbcb5f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.214
+hkr,mappings\tftp\default\31c75b7551c4e95be9433aab74138cb1075d9b906dc66a1608bc6d9de8dbcb5f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\spain\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.215 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\spain\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\dd06e9717e5c3d1610c153bcd842da188eeccd7cfbc7e8453e8cc78cd9e03f58,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.215
+hkr,mappings\tftp\default\dd06e9717e5c3d1610c153bcd842da188eeccd7cfbc7e8453e8cc78cd9e03f58,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\spain\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.216 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\turkey\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\0d9dee0711837f2307abd6d060b047f540320efe4aa39cfc6d7f1b68b2f6fc67,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.216
+hkr,mappings\tftp\default\0d9dee0711837f2307abd6d060b047f540320efe4aa39cfc6d7f1b68b2f6fc67,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\turkey\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.217 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\turkey\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\780fa560acaf2ede8c7c16b708c0aa52d3198868e59abebb2ccb126d431ac8cf,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.217
+hkr,mappings\tftp\default\780fa560acaf2ede8c7c16b708c0aa52d3198868e59abebb2ccb126d431ac8cf,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\turkey\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.218 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\uk\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\97586a96db6c836638196fe118a27131590e9854622c925f8a1caa07b378a214,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.218
+hkr,mappings\tftp\default\97586a96db6c836638196fe118a27131590e9854622c925f8a1caa07b378a214,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\uk\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.219 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\uk\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\8047b093062c7d1840fb107593d2ad400052832fe070196178ea63b89735d892,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.219
+hkr,mappings\tftp\default\8047b093062c7d1840fb107593d2ad400052832fe070196178ea63b89735d892,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\eu\vodafone\volte\uk\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.220 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\commerci\mx\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\e1ce32ac17384f9628a3bcba2341c1f2bcf54dc2b9c611bdc691729183d424bc,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.220
+hkr,mappings\tftp\default\e1ce32ac17384f9628a3bcba2341c1f2bcf54dc2b9c611bdc691729183d424bc,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\commerci\mx\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.221 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\commerci\mx\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\eb61f4edc33f7b1d0457bc1a91a09e303c0167effb503372b6ef155be4ea6000,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.221
+hkr,mappings\tftp\default\eb61f4edc33f7b1d0457bc1a91a09e303c0167effb503372b6ef155be4ea6000,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\amx\commerci\mx\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.222 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\claro\commerci\colombia\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\459c7d26f2a50e08b574493bc876212880b306ff6b8199a7df91de42e690aec6,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.222
+hkr,mappings\tftp\default\459c7d26f2a50e08b574493bc876212880b306ff6b8199a7df91de42e690aec6,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\claro\commerci\colombia\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.223 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\claro\commerci\colombia\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\7eb92bc13a95b6addabc5bfe3916982cc3c97f9fd8c3ba055541ecf5a363ab06,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.223
+hkr,mappings\tftp\default\7eb92bc13a95b6addabc5bfe3916982cc3c97f9fd8c3ba055541ecf5a363ab06,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\claro\commerci\colombia\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.224 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\colombia\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9c03bff70de3e885b2e3f491e44a9c3809f9352153bb473861aad94c1b904491,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.224
+hkr,mappings\tftp\default\9c03bff70de3e885b2e3f491e44a9c3809f9352153bb473861aad94c1b904491,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\colombia\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.225 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\colombia\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\a5dbea595df9db6d7f9cb5534ba02b4f6decf693ad76a737ddd01daf3954cca8,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.225
+hkr,mappings\tftp\default\a5dbea595df9db6d7f9cb5534ba02b4f6decf693ad76a737ddd01daf3954cca8,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\colombia\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.226 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\peru\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\454b669763a029e62956503c91bd7424d6c8199aae925076ea44a7ea6e20e969,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.226
+hkr,mappings\tftp\default\454b669763a029e62956503c91bd7424d6c8199aae925076ea44a7ea6e20e969,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\peru\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.227 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\peru\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e4f7d3ad54031c0d9c239f603ece02bacf762aa809d2a9ae99c21309449b7533,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.227
+hkr,mappings\tftp\default\e4f7d3ad54031c0d9c239f603ece02bacf762aa809d2a9ae99c21309449b7533,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\latam\telefoni\commerci\peru\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.228 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\mea\stc\commerci\sa\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\2f0b8c93f9e4edeec8eb6f453140bc8ac204764322f5591caa37163ddd847096,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.228
+hkr,mappings\tftp\default\2f0b8c93f9e4edeec8eb6f453140bc8ac204764322f5591caa37163ddd847096,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\mea\stc\commerci\sa\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.229 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\mea\stc\commerci\sa\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\2d42191483544cea35ec4fe6c522c6a71a1752ee80c4a3e2b82e6126e35ee8ae,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.229
+hkr,mappings\tftp\default\2d42191483544cea35ec4fe6c522c6a71a1752ee80c4a3e2b82e6126e35ee8ae,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\mea\stc\commerci\sa\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.230 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\bell\commerci\ca\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\1841195389bb464f948a46d1063ea1fafd2c194ac16ab69fd852b19d548aece9,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.230
+hkr,mappings\tftp\default\1841195389bb464f948a46d1063ea1fafd2c194ac16ab69fd852b19d548aece9,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\bell\commerci\ca\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.231 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\bell\commerci\ca\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\55b3390fa3c10708461063978a533082b25a4fc55b131bfd25d4e2d437f82450,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.231
+hkr,mappings\tftp\default\55b3390fa3c10708461063978a533082b25a4fc55b131bfd25d4e2d437f82450,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\bell\commerci\ca\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.232 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\rogers\commerci\ca\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\3ef6fd2de1da20de736a9aae9866d9c420072fc0c8ef2b35eb603fa55db7bf22,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.232
+hkr,mappings\tftp\default\3ef6fd2de1da20de736a9aae9866d9c420072fc0c8ef2b35eb603fa55db7bf22,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\rogers\commerci\ca\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.233 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\rogers\commerci\ca\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\5ac29cd08fd010ed63c67e16120b9f88bad626dfaf5632b0ccff170054de584f,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.233
+hkr,mappings\tftp\default\5ac29cd08fd010ed63c67e16120b9f88bad626dfaf5632b0ccff170054de584f,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\rogers\commerci\ca\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.234 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\telus\commerci\ca\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\6b626bf39d3c871ad8e9a7549024ca4a76cabd24830a4dfc25e9af3a0a8d72b1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.234
+hkr,mappings\tftp\default\6b626bf39d3c871ad8e9a7549024ca4a76cabd24830a4dfc25e9af3a0a8d72b1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\telus\commerci\ca\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.235 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\telus\commerci\ca\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\ae627c201d5d9503f8db9135a995293a1f5c4294af7b19106e4b231ab97012ad,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.235
+hkr,mappings\tftp\default\ae627c201d5d9503f8db9135a995293a1f5c4294af7b19106e4b231ab97012ad,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\na\telus\commerci\ca\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.236 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\megafon\commerci\ru\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\9f5e91c438d60ec8acb919a0b1a890ed326ece0d8da9a120cb9ed19542c97795,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.236
+hkr,mappings\tftp\default\9f5e91c438d60ec8acb919a0b1a890ed326ece0d8da9a120cb9ed19542c97795,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\megafon\commerci\ru\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.237 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\megafon\commerci\ru\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\3e754d5f2f8699e8c4ebd98d9d9ce93ab4b70392a68d639c2b1ebabad5d13d9b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.237
+hkr,mappings\tftp\default\3e754d5f2f8699e8c4ebd98d9d9ce93ab4b70392a68d639c2b1ebabad5d13d9b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\megafon\commerci\ru\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.238 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\mts\commerci\ru\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\cb60cccab2d8fcc66d2c71d84dc469f42c498aba6b08bbd7a93f6bde36a0fab1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.238
+hkr,mappings\tftp\default\cb60cccab2d8fcc66d2c71d84dc469f42c498aba6b08bbd7a93f6bde36a0fab1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\mts\commerci\ru\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.239 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\mts\commerci\ru\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\a64f9b5abd04f730d808673c1f59ce2a64a28ef51045d17ae0c911c7e70a12e9,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.239
+hkr,mappings\tftp\default\a64f9b5abd04f730d808673c1f59ce2a64a28ef51045d17ae0c911c7e70a12e9,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\russia\mts\commerci\ru\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.240 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\3hk\commerci\hk\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\7c6e904ca2c04ba9dd840f86717574aeb42180a01ff092011c68a9c95779fd25,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.240
+hkr,mappings\tftp\default\7c6e904ca2c04ba9dd840f86717574aeb42180a01ff092011c68a9c95779fd25,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\3hk\commerci\hk\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.241 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\3hk\commerci\hk\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\01b04d09f5dce7af226779333849524dc4c876084345674fa2ff1719ab05c5ed,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.241
+hkr,mappings\tftp\default\01b04d09f5dce7af226779333849524dc4c876084345674fa2ff1719ab05c5ed,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\3hk\commerci\hk\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.242 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ais\commerci\thailand\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\ae520046793a5f3f904c7fdc6a16221249e02bcbb4a75167f2c3bd32186c0ad6,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.242
+hkr,mappings\tftp\default\ae520046793a5f3f904c7fdc6a16221249e02bcbb4a75167f2c3bd32186c0ad6,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ais\commerci\thailand\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.243 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ais\commerci\thailand\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\53ddb68ab630e4ece1a0f77a6dffc2197b5c7c6b6d1825cf92ed945faa2a0c3b,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.243
+hkr,mappings\tftp\default\53ddb68ab630e4ece1a0f77a6dffc2197b5c7c6b6d1825cf92ed945faa2a0c3b,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\ais\commerci\thailand\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.244 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\chunghwa\commerci\tw\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\43c4dcc615fb18f858eb5bf928eaa5233e10a34bc31305a0c6aea3ba796d0ec1,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.244
+hkr,mappings\tftp\default\43c4dcc615fb18f858eb5bf928eaa5233e10a34bc31305a0c6aea3ba796d0ec1,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\chunghwa\commerci\tw\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.245 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\chunghwa\commerci\tw\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\ec3b32bd7daa91cac9a885fa89fb089154b6fb204795c9e713f91066588b4fdc,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.245
+hkr,mappings\tftp\default\ec3b32bd7daa91cac9a885fa89fb089154b6fb204795c9e713f91066588b4fdc,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\chunghwa\commerci\tw\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.246 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\dtac\commerci\volte\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\7fd701cf9761d3927f47b913e3bcdca565d91b733eaa9c0cef8b6dab839008fd,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.246
+hkr,mappings\tftp\default\7fd701cf9761d3927f47b913e3bcdca565d91b733eaa9c0cef8b6dab839008fd,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\dtac\commerci\volte\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.247 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\dtac\commerci\volte\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\14d696c07b4f6c5ad12b7f5e72f9e4bb79aa0081f1c6c75acb0dd280fa6d3093,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.247
+hkr,mappings\tftp\default\14d696c07b4f6c5ad12b7f5e72f9e4bb79aa0081f1c6c75acb0dd280fa6d3093,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\dtac\commerci\volte\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.248 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\globe\commerci\ph\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\fd1772f06be8b4a861f851a37cd1dc4d7e1598253b32020318066a98f7425fdd,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.248
+hkr,mappings\tftp\default\fd1772f06be8b4a861f851a37cd1dc4d7e1598253b32020318066a98f7425fdd,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\globe\commerci\ph\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.249 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\globe\commerci\ph\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\db1ff844bae345367ba0f39b6580153e6f598f9c9d9a534202ba6a2dbd1b8cdb,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.249
+hkr,mappings\tftp\default\db1ff844bae345367ba0f39b6580153e6f598f9c9d9a534202ba6a2dbd1b8cdb,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\globe\commerci\ph\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.250 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\hkt\commerci\hk\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\4fb86083cc8c5417d794d5825d70576a0c32f667fb7c31aaa3966f0119d8ca12,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.250
+hkr,mappings\tftp\default\4fb86083cc8c5417d794d5825d70576a0c32f667fb7c31aaa3966f0119d8ca12,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\hkt\commerci\hk\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.251 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\hkt\commerci\hk\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\a966dbfd6f52b4bcfe59f83e89e4eb30050fd9c77f17789bdd14d0295f8b4470,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.251
+hkr,mappings\tftp\default\a966dbfd6f52b4bcfe59f83e89e4eb30050fd9c77f17789bdd14d0295f8b4470,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\hkt\commerci\hk\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.252 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\m1\commerci\sg\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\ba2dbab6868a172accf296e4617ffa7d7c3c7ddc3e44b9299d575f96218a4f8a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.252
+hkr,mappings\tftp\default\ba2dbab6868a172accf296e4617ffa7d7c3c7ddc3e44b9299d575f96218a4f8a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\m1\commerci\sg\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.253 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\m1\commerci\sg\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\7ea37ca628d93641d7c553941ea864d248f4da04a94c7e0e3a7b1236d0ec9f84,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.253
+hkr,mappings\tftp\default\7ea37ca628d93641d7c553941ea864d248f4da04a94c7e0e3a7b1236d0ec9f84,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\m1\commerci\sg\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.254 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\p1\commerci\malaysia\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\a0150ff93771b2a0fc1c0890659f92a2a2d61d4465573aa75e1752186b051a3a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.254
+hkr,mappings\tftp\default\a0150ff93771b2a0fc1c0890659f92a2a2d61d4465573aa75e1752186b051a3a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\p1\commerci\malaysia\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.255 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\p1\commerci\malaysia\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\d11773bcb3ddc5df52d40cc669ea5919bdd32fff561298fad5561009afa1dc78,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.255
+hkr,mappings\tftp\default\d11773bcb3ddc5df52d40cc669ea5919bdd32fff561298fad5561009afa1dc78,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\p1\commerci\malaysia\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.256 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\singtel\commerci\singapor\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\fdfa0e2a41c7619357489063a8029f19bdbeb69e892c3a1fee08cdfc10f6e84a,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.256
+hkr,mappings\tftp\default\fdfa0e2a41c7619357489063a8029f19bdbeb69e892c3a1fee08cdfc10f6e84a,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\singtel\commerci\singapor\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.257 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\singtel\commerci\singapor\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\43fc417a62cda96ebc192076d3bffabd0c05a946cd0c621e585f4721cb5bfdbd,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.257
+hkr,mappings\tftp\default\43fc417a62cda96ebc192076d3bffabd0c05a946cd0c621e585f4721cb5bfdbd,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\singtel\commerci\singapor\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.258 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\vowifi\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\4db055412e3c55d0e8dba5430f9117e2f4667a6fbbda8eec05ab21d6417e0798,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.258
+hkr,mappings\tftp\default\4db055412e3c55d0e8dba5430f9117e2f4667a6fbbda8eec05ab21d6417e0798,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\vowifi\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.259 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\vowifi\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\f3b02491e168dda7cdb910febd375503db18e4153eb3ee1400b0d1f4fbfba960,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.259
+hkr,mappings\tftp\default\f3b02491e168dda7cdb910febd375503db18e4153eb3ee1400b0d1f4fbfba960,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartfre\commerci\vowifi\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.260 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartone\commerci\hk\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\fd22faafe3898a5058a0e91b16b974bd9c99d85874b3a00e53de7662d6bfaf10,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.260
+hkr,mappings\tftp\default\fd22faafe3898a5058a0e91b16b974bd9c99d85874b3a00e53de7662d6bfaf10,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartone\commerci\hk\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.261 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartone\commerci\hk\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c8cac2f30f27f7a2a05d7cc6b0ee4860cfb2d6baf0f65cd509b104ad26676fde,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.261
+hkr,mappings\tftp\default\c8cac2f30f27f7a2a05d7cc6b0ee4860cfb2d6baf0f65cd509b104ad26676fde,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\smartone\commerci\hk\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.262 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\starhub\commerci\sg\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\5a5c4fa1ce7f0397b48a0bd0a8e54a42df9c20bcc034a788e69a0c39c1cd169d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.262
+hkr,mappings\tftp\default\5a5c4fa1ce7f0397b48a0bd0a8e54a42df9c20bcc034a788e69a0c39c1cd169d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\starhub\commerci\sg\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.263 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\starhub\commerci\sg\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\0edce38644281b3c53d437002e67bd87023f251fe79c2880631f33a7d829b8e2,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.263
+hkr,mappings\tftp\default\0edce38644281b3c53d437002e67bd87023f251fe79c2880631f33a7d829b8e2,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\starhub\commerci\sg\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.264 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\truemove\commerci\volte\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\6d9eea0941f963ba93801d9699aa502a667a8491396b53de9b9f188043794b11,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.264
+hkr,mappings\tftp\default\6d9eea0941f963ba93801d9699aa502a667a8491396b53de9b9f188043794b11,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\truemove\commerci\volte\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.265 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\truemove\commerci\volte\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e46d10de4d308e29d071b4ef288e2c0267aa219cb20b9751255040e735209346,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.265
+hkr,mappings\tftp\default\e46d10de4d308e29d071b4ef288e2c0267aa219cb20b9751255040e735209346,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\truemove\commerci\volte\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.266 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tstar\commerci\tw\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\17c8f130ab4ad8c8015464bdb921683b062f1087e27d34cc0b20bd2c9d349489,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.266
+hkr,mappings\tftp\default\17c8f130ab4ad8c8015464bdb921683b062f1087e27d34cc0b20bd2c9d349489,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tstar\commerci\tw\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.267 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tstar\commerci\tw\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\9ff850e244cceffaff17c4356104574ecc8367a1b494b86c5ce47f3ad55fa8ff,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.267
+hkr,mappings\tftp\default\9ff850e244cceffaff17c4356104574ecc8367a1b494b86c5ce47f3ad55fa8ff,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\tstar\commerci\tw\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.268 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\umobile\commerci\malaysia\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\5119c2beb6fbd8b532b5c2566c6a6066d394301ad292269122ce1d96ca65d183,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.268
+hkr,mappings\tftp\default\5119c2beb6fbd8b532b5c2566c6a6066d394301ad292269122ce1d96ca65d183,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\umobile\commerci\malaysia\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.269 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\umobile\commerci\malaysia\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\d63bf0fdf05f98a5ab95bb3a1fe5804b99e2ce75d933f8ec4529834416fe1641,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.269
+hkr,mappings\tftp\default\d63bf0fdf05f98a5ab95bb3a1fe5804b99e2ce75d933f8ec4529834416fe1641,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\umobile\commerci\malaysia\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.270 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\viettel\commerci\vietnam\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\711c553a49a19a8669fb4dc773e686b7c598aa2f33c1f37c5e39e820f17af6d3,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.270
+hkr,mappings\tftp\default\711c553a49a19a8669fb4dc773e686b7c598aa2f33c1f37c5e39e820f17af6d3,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\viettel\commerci\vietnam\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.271 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\viettel\commerci\vietnam\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\e508a121b7219138cd24a5a302f4e5c232eda0593442900aecae279b43e5e651,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.271
+hkr,mappings\tftp\default\e508a121b7219138cd24a5a302f4e5c232eda0593442900aecae279b43e5e651,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\sea\viettel\commerci\vietnam\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.272 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\lla\commerci\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f9468cde69200d04584831a65ba935fa2b3307cff3b32a5489ad5c0f340d4a1d,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.272
+hkr,mappings\tftp\default\f9468cde69200d04584831a65ba935fa2b3307cff3b32a5489ad5c0f340d4a1d,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\lla\commerci\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.273 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\lla\commerci\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c109547eee3c408a708fe0bdeafb6d4a6e449204c9d704d1a7d99f09248c67d7,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.273
+hkr,mappings\tftp\default\c109547eee3c408a708fe0bdeafb6d4a6e449204c9d704d1a7d99f09248c67d7,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\lla\commerci\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.274 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mcn\volte\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\d5ee13a859f1a32df9117bf49a2beaa4bb8f1561321be73ceef1c0bff17cdef6,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.274
+hkr,mappings\tftp\default\d5ee13a859f1a32df9117bf49a2beaa4bb8f1561321be73ceef1c0bff17cdef6,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mcn\volte\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.275 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mcn\volte\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\c19e05e1784c19ee21e57946cbb27345510ceb6a1a7abb3a1c1deb686a4a93ab,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.275
+hkr,mappings\tftp\default\c19e05e1784c19ee21e57946cbb27345510ceb6a1a7abb3a1c1deb686a4a93ab,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mcn\volte\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.276 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mte\factory\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\660e4e56e6ba5d05408215cda0e2f9a576570e8b1fd91dc5943e3fd10e94f2ad,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.276
+hkr,mappings\tftp\default\660e4e56e6ba5d05408215cda0e2f9a576570e8b1fd91dc5943e3fd10e94f2ad,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mte\factory\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.277 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mte\factory\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\bf4bc5536cbf43a42a406e19d03ce0091cab25e2326ec14c6b00b390f851ca26,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.277
+hkr,mappings\tftp\default\bf4bc5536cbf43a42a406e19d03ce0091cab25e2326ec14c6b00b390f851ca26,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\mte\factory\mcfg_sw.uns
+
+; Updating registry of mcfg_sw.mbn.278 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\na_row\cert\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\f3033bc9ebfd558876c263f2a834ef79c2eb19a67c6c9bed94629ed54bbaa997,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.278
+hkr,mappings\tftp\default\f3033bc9ebfd558876c263f2a834ef79c2eb19a67c6c9bed94629ed54bbaa997,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\na_row\cert\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.279 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\na_row\cert\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\1f944029aedda59d10805899f5354a0805d3570b0eb8813c84b2b2954f01428c,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.279
+hkr,mappings\tftp\default\1f944029aedda59d10805899f5354a0805d3570b0eb8813c84b2b2954f01428c,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\na_row\cert\mcfg_sw.uns
+
+; Updating registry of mcfg_hw.mbn.280 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\generic\microsof\epsilon\hw\rel\sm8150.p\common\mcfg_hw.mbn
+HKR,Mappings\TFTP\Default\48a8f6581822b0053d91610ac32759a8b9e306a680a36bbfb9f14fb0bda259ef,"Local",%REG_SZ%, %13%\MCFG\mcfg_hw.mbn.280
+hkr,mappings\tftp\default\48a8f6581822b0053d91610ac32759a8b9e306a680a36bbfb9f14fb0bda259ef,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\generic\microsof\epsilon\hw\rel\sm8150.p\common\mcfg_hw.mbn
+
+; Updating registry of mcfg_hw.uns.281 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\generic\microsof\epsilon\hw\rel\sm8150.p\common\mcfg_hw.uns
+HKR,Mappings\TFTP\Default\bbf553671f3e511244813af9b957387d6f3d8c67cc087cf85dc99924d7b4c625,"Local",%REG_SZ%, %13%\MCFG\mcfg_hw.uns.281
+hkr,mappings\tftp\default\bbf553671f3e511244813af9b957387d6f3d8c67cc087cf85dc99924d7b4c625,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_hw\generic\microsof\epsilon\hw\rel\sm8150.p\common\mcfg_hw.uns
+
+; Updating registry of mcfg_sw.mbn.282 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\rel\sm8150.p\common\mcfg_sw.mbn
+HKR,Mappings\TFTP\Default\4078290f09c316f60e4813ef35b54f77a1df629b4bdbc3e2789a32d1253d0f98,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.mbn.282
+hkr,mappings\tftp\default\4078290f09c316f60e4813ef35b54f77a1df629b4bdbc3e2789a32d1253d0f98,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\rel\sm8150.p\common\mcfg_sw.mbn
+
+; Updating registry of mcfg_sw.uns.283 to remote path \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\rel\sm8150.p\common\mcfg_sw.uns
+HKR,Mappings\TFTP\Default\26d6ade1671702b923db6b22e520ca93051ac2efe235a11c3d5bcfa33161c862,"Local",%REG_SZ%, %13%\MCFG\mcfg_sw.uns.283
+hkr,mappings\tftp\default\26d6ade1671702b923db6b22e520ca93051ac2efe235a11c3d5bcfa33161c862,"remote",%reg_sz%, \rfs\msm\mpss\readonly\firmware\image\modem_pr\mcfg\configs\mcfg_sw\generic\microsof\epsilon\sw\rel\sm8150.p\common\mcfg_sw.uns
+

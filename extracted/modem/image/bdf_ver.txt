@@ -1,0 +1,68 @@
+*****************************************
+Version 0.9
+*****************************************
+BDF version: 0x1a
+Release Date:07/07/2020
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+68c9fe1fb01da8fc8c9c9cc163c70809b27c29c794e0b6282b07f0bf31c665de
+*****************************************
+Version 0.8
+*****************************************
+BDF version: 0x1a
+Release Date:02/06/2020
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+e40a44b91e1db2479f0b974aa2ff11d6c0567eb405dd9b8c831e12b73a883c6f
+*****************************************
+Version 0.7
+*****************************************
+BDF version: 0x1a
+Release Date:15/05/2020
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+3cb5ed72ed198902499bc0c97d8bcc3ec864995f62c97ed04065e73a102abc96
+*****************************************
+Version 0.6
+*****************************************
+BDF version: 0x1a
+Release Date:07/05/2020
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+b1422b89e9737a67773718a4a3c220b4bb5899db5924dd0daacb10ea9b990886
+*****************************************
+Version 0.5
+*****************************************
+BDF version: 0x1a
+Release Date:01/04/2020
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+f862c387b0b7a2d3ce03cfa92337cc01129dfe7c94d6b39bf481750428e548a7
+*****************************************
+Version 0.4
+*****************************************
+BDF version: 0x1a
+Release Date:03/02/2020
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+6e4f245eb6ca833a165e897f2f2229af178b287bea95b25bdcad93cb22aea625
+*****************************************
+Version 0.3
+*****************************************
+BDF version: 0x1a
+Release Date:12/20/2019
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+0f9beac54b8766a2a558bbc270cb47b780d6c41fe851cfc9680ec398cdccd11c
+*****************************************
+Version 0.2
+*****************************************
+BDF version: 0x1a
+Release Date:11/28/2019
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+89772b68cf9bb8c437d8756e8bc3e1139b455c4dec76ab62f524d91bed64d584
+*****************************************
+Version 0.1
+*****************************************
+BDF version: 0x1a
+Release Date:10/31/2019
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+8e1037bd9dfd2c66f8703e333d5879c92dc0f160873f84a35856f0ecc2e6bd79
+Bug: User Story 17029
+Changes in This release are made to match the antenna sharing design and to turn off DBS:
+  1- concurrencyModeMask__0_0 0xe
+  2- coexFlags__0_0 0x21
+  3- coexConfig__0_0 0x2

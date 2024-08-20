@@ -1,0 +1,24 @@
+*************************************************************
+Version 0.3
+*************************************************************
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+7e5623556b7b4f1a29ef6924a9464b8277beaa4d1e44dfe039d1bbe38217dbd1
+Changes:
+include adjustments for higher power levels for both BLE and BT
+*************************************************************
+Version 0.2
+*************************************************************
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+8074e9dfd5d6157c1b7fa91eff78b43854ebb55ee06e915d2d1aefc892f307b1
+Changes:
+include adjustments for higher power levels for both BLE and BT
+
+*************************************************************
+Version 0.1
+*************************************************************
+SHA-256 checksum: [Note: Retrieve checksum by run "sha256sum bdwlan.bin"]
+143b9f216a3048a2260d0ea97d81a42ae8ddedb8a580044ef546060792ae39eb
+Changes:
+The crnv21.bin file is the correct configuration for E-OS RF layout.
+This file must be picked up in the factory and LKG image /vendor/bt_firmware/image
+This file must replace the existing crnv21.bin file

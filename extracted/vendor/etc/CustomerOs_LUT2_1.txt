@@ -1,0 +1,1 @@
+C:/Users/gus33/Documents/GitHub/WOA-Project/firmware_oem_surface_dual_screen_epsilon/extracted/a/vendor/vendor/sfpd/display/CustomerOs_LUT2_1.txt

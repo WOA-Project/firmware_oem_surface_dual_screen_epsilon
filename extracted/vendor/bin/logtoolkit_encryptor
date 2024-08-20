@@ -1,0 +1,14 @@
+#!/vendor/bin/sh
+
+#
+# Copyright (c) Microsoft Corporation. All rights reserved.
+#
+# Script for On-Device Logging Encryption
+
+# TODO: Fix sepolicy issue for using app_process from /vendor/, or to implement native executable for encrytion.
+
+#base=/vendor
+#export CLASSPATH=$base/framework/logtoolkit_activator.jar
+#tar cz $@ | exec /system/bin/app_process $base/bin com.microsoft.surface.commands.logtoolkit.LoggingEnabler encrypt
+#exec /system/bin/app_process $base/bin com.microsoft.surface.commands.logtoolkit.LoggingEnabler encrypt
+tar -cz -C /data/vendor/logtoolkit/ . | gzip -9
